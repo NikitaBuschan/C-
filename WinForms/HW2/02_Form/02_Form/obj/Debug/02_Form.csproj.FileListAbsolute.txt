@@ -1,0 +1,10 @@
+E:\.net\HomeWork\WinForms\HW2\02_Form\02_Form\bin\Debug\02_Form.exe.config
+E:\.net\HomeWork\WinForms\HW2\02_Form\02_Form\bin\Debug\02_Form.exe
+E:\.net\HomeWork\WinForms\HW2\02_Form\02_Form\bin\Debug\02_Form.pdb
+E:\.net\HomeWork\WinForms\HW2\02_Form\02_Form\obj\Debug\02_Form.csprojAssemblyReference.cache
+E:\.net\HomeWork\WinForms\HW2\02_Form\02_Form\obj\Debug\_02_Form.FormMain.resources
+E:\.net\HomeWork\WinForms\HW2\02_Form\02_Form\obj\Debug\_02_Form.Properties.Resources.resources
+E:\.net\HomeWork\WinForms\HW2\02_Form\02_Form\obj\Debug\02_Form.csproj.GenerateResource.cache
+E:\.net\HomeWork\WinForms\HW2\02_Form\02_Form\obj\Debug\02_Form.csproj.CoreCompileInputs.cache
+E:\.net\HomeWork\WinForms\HW2\02_Form\02_Form\obj\Debug\02_Form.exe
+E:\.net\HomeWork\WinForms\HW2\02_Form\02_Form\obj\Debug\02_Form.pdb

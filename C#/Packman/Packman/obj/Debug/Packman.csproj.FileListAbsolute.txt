@@ -1,0 +1,12 @@
+D:\.net\HomeWork\C#\Packman\Packman\bin\Debug\Packman.exe.config
+D:\.net\HomeWork\C#\Packman\Packman\bin\Debug\Packman.exe
+D:\.net\HomeWork\C#\Packman\Packman\bin\Debug\Packman.pdb
+D:\.net\HomeWork\C#\Packman\Packman\obj\Debug\Packman.csprojAssemblyReference.cache
+D:\.net\HomeWork\C#\Packman\Packman\obj\Debug\Packman.exe
+D:\.net\HomeWork\C#\Packman\Packman\obj\Debug\Packman.pdb
+D:\CPP-CSharp\HomeWork\C#\Packman\Packman\bin\Debug\Packman.exe.config
+D:\CPP-CSharp\HomeWork\C#\Packman\Packman\bin\Debug\Packman.exe
+D:\CPP-CSharp\HomeWork\C#\Packman\Packman\bin\Debug\Packman.pdb
+D:\CPP-CSharp\HomeWork\C#\Packman\Packman\obj\Debug\Packman.csprojAssemblyReference.cache
+D:\CPP-CSharp\HomeWork\C#\Packman\Packman\obj\Debug\Packman.exe
+D:\CPP-CSharp\HomeWork\C#\Packman\Packman\obj\Debug\Packman.pdb

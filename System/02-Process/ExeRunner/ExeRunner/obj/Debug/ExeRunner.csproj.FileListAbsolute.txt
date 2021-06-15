@@ -1,0 +1,10 @@
+E:\.net\HomeWork\System\02-Process\ExeRunner\ExeRunner\bin\Debug\ExeRunner.exe.config
+E:\.net\HomeWork\System\02-Process\ExeRunner\ExeRunner\bin\Debug\ExeRunner.exe
+E:\.net\HomeWork\System\02-Process\ExeRunner\ExeRunner\bin\Debug\ExeRunner.pdb
+E:\.net\HomeWork\System\02-Process\ExeRunner\ExeRunner\obj\Debug\ExeRunner.csprojAssemblyReference.cache
+E:\.net\HomeWork\System\02-Process\ExeRunner\ExeRunner\obj\Debug\ExeRunner.ExeRunnerView.resources
+E:\.net\HomeWork\System\02-Process\ExeRunner\ExeRunner\obj\Debug\ExeRunner.Properties.Resources.resources
+E:\.net\HomeWork\System\02-Process\ExeRunner\ExeRunner\obj\Debug\ExeRunner.csproj.GenerateResource.cache
+E:\.net\HomeWork\System\02-Process\ExeRunner\ExeRunner\obj\Debug\ExeRunner.csproj.CoreCompileInputs.cache
+E:\.net\HomeWork\System\02-Process\ExeRunner\ExeRunner\obj\Debug\ExeRunner.exe
+E:\.net\HomeWork\System\02-Process\ExeRunner\ExeRunner\obj\Debug\ExeRunner.pdb

@@ -1,0 +1,24 @@
+E:\.net\HomeWork\System\04-Threads-Synchronization\Exam\Exam\bin\Debug\Exam.exe.config
+E:\.net\HomeWork\System\04-Threads-Synchronization\Exam\Exam\bin\Debug\Exam.exe
+E:\.net\HomeWork\System\04-Threads-Synchronization\Exam\Exam\bin\Debug\Exam.pdb
+E:\.net\HomeWork\System\04-Threads-Synchronization\Exam\Exam\obj\Debug\Exam.csprojAssemblyReference.cache
+E:\.net\HomeWork\System\04-Threads-Synchronization\Exam\Exam\obj\Debug\Exam.Properties.Resources.resources
+E:\.net\HomeWork\System\04-Threads-Synchronization\Exam\Exam\obj\Debug\Exam.csproj.GenerateResource.cache
+E:\.net\HomeWork\System\04-Threads-Synchronization\Exam\Exam\obj\Debug\Exam.csproj.CoreCompileInputs.cache
+E:\.net\HomeWork\System\04-Threads-Synchronization\Exam\Exam\obj\Debug\Exam.exe
+E:\.net\HomeWork\System\04-Threads-Synchronization\Exam\Exam\obj\Debug\Exam.pdb
+E:\.net\HomeWork\System\04-Threads-Synchronization\Exam\Exam\obj\Debug\Exam.ForbiddenWordsView.resources
+E:\.net\HomeWork\System\04-Threads-Synchronization\Exam\Exam\obj\Debug\Exam.SearchView.resources
+E:\.net\HomeWork\System\04-Threads-Synchronization\Exam\Exam\obj\Debug\Exam.AddWordView.resources
+D:\Downloads\New folder\Exam\Exam\bin\Debug\Exam.exe.config
+D:\Downloads\New folder\Exam\Exam\bin\Debug\Exam.exe
+D:\Downloads\New folder\Exam\Exam\bin\Debug\Exam.pdb
+D:\Downloads\New folder\Exam\Exam\obj\Debug\Exam.csprojAssemblyReference.cache
+D:\Downloads\New folder\Exam\Exam\obj\Debug\Exam.AddWordView.resources
+D:\Downloads\New folder\Exam\Exam\obj\Debug\Exam.ForbiddenWordsView.resources
+D:\Downloads\New folder\Exam\Exam\obj\Debug\Exam.Properties.Resources.resources
+D:\Downloads\New folder\Exam\Exam\obj\Debug\Exam.SearchView.resources
+D:\Downloads\New folder\Exam\Exam\obj\Debug\Exam.csproj.GenerateResource.cache
+D:\Downloads\New folder\Exam\Exam\obj\Debug\Exam.csproj.CoreCompileInputs.cache
+D:\Downloads\New folder\Exam\Exam\obj\Debug\Exam.exe
+D:\Downloads\New folder\Exam\Exam\obj\Debug\Exam.pdb

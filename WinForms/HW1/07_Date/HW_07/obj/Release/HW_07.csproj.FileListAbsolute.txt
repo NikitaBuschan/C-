@@ -1,0 +1,9 @@
+E:\.net\HomeWork\WinForms\HW1\07_Date\HW_07\bin\Release\HW_07.exe.config
+E:\.net\HomeWork\WinForms\HW1\07_Date\HW_07\bin\Release\HW_07.exe
+E:\.net\HomeWork\WinForms\HW1\07_Date\HW_07\bin\Release\HW_07.pdb
+E:\.net\HomeWork\WinForms\HW1\07_Date\HW_07\obj\Release\HW_07.MainForm.resources
+E:\.net\HomeWork\WinForms\HW1\07_Date\HW_07\obj\Release\HW_07.Properties.Resources.resources
+E:\.net\HomeWork\WinForms\HW1\07_Date\HW_07\obj\Release\HW_07.csproj.GenerateResource.cache
+E:\.net\HomeWork\WinForms\HW1\07_Date\HW_07\obj\Release\HW_07.csproj.CoreCompileInputs.cache
+E:\.net\HomeWork\WinForms\HW1\07_Date\HW_07\obj\Release\HW_07.exe
+E:\.net\HomeWork\WinForms\HW1\07_Date\HW_07\obj\Release\HW_07.pdb

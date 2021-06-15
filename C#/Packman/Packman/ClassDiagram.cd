@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Pacman.Menu.AddScores">
+    <Position X="8.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAABACA=</HashCode>
+      <FileName>Menu\AddScores.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pacman.Menu.Exit">
+    <Position X="12.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Menu\Exit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pacman.Menu.Main">
+    <Position X="15" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\Main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pacman.Menu.Menu">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAEAAAAAAAAQAAAAEACAAAAgAIAAAAAAAABAAA=</HashCode>
+      <FileName>Menu\Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pacman.Menu.Pause">
+    <Position X="17.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Menu\Pause.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pacman.Menu.PlayAgain">
+    <Position X="19.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Menu\PlayAgain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pacman.Menu.TryAgain">
+    <Position X="10.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Menu\TryAgain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pacman.Menu.Scores">
+    <Position X="22" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABgEgAAAEAwAAAAAAAAAAAAAQAEABIAAAAAAAAAA=</HashCode>
+      <FileName>Scores.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pacman.Shadows.BlueShadow">
+    <Position X="8" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAEIAAAAAAAAAAAAAAAAAAAAAAIAAAAAACAAA=</HashCode>
+      <FileName>Shadows\Blue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pacman.Shadows.CyanShadow">
+    <Position X="10.25" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAEIAAAAAAAAAAAAAAAAAAAAAAIAAAAAACAAA=</HashCode>
+      <FileName>Shadows\Cyan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pacman.Shadows.GreenShadow">
+    <Position X="14.75" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAEIAAAAAAAAAAAAAAAAAAAAAAIAAAAAACAAA=</HashCode>
+      <FileName>Shadows\Green.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pacman.Shadows.RedShadow">
+    <Position X="17" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAEIAAAAAAAAAAAAAAAAAAAAAAIAAAAAACAAA=</HashCode>
+      <FileName>Shadows\Red.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pacman.Wall">
+    <Position X="22" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAACAA=</HashCode>
+      <FileName>ConsoleLib.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pacman.Point">
+    <Position X="23.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAACAA=</HashCode>
+      <FileName>ConsoleLib.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pacman.SuperPoint">
+    <Position X="25.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAACAA=</HashCode>
+      <FileName>ConsoleLib.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pacman.ScoresData">
+    <Position X="23.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAgACAAgQAAAAAAIAAAAAAAAAABQA=</HashCode>
+      <FileName>ConsoleLib.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pacman.Coord">
+    <Position X="22" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAIAAAAAAAAAAYiA=</HashCode>
+      <FileName>ConsoleLib.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pacman.RememberStepObject">
+    <Position X="27.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAQQAAAAAAAAAA=</HashCode>
+      <FileName>ConsoleLib.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pacman.Draw">
+    <Position X="25.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACIAAAAAhAAAAgAAgAAQAIAAACAAACAAAAAAA=</HashCode>
+      <FileName>Draw.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pacman.Create">
+    <Position X="23.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAgAAABAIAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Factory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pacman.Map">
+    <Position X="22" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAADABIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Map.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pacman.Game">
+    <Position X="27.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAACAAAADAAAAIAAAAAAIAQAYAAgIAACAQAAA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pacman.PacmanHero">
+    <Position X="12.5" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAEEIAAABgAAAAAAAAAAAAAAAAAIAAAAAACAAQ=</HashCode>
+      <FileName>PacmanHero.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pacman.Program">
+    <Position X="25.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pacman.Timers">
+    <Position X="27.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAEAAAAAAAAAAAIAAAAAAQAAgAgACAAAAA=</HashCode>
+      <FileName>Timers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pacman.Unit">
+    <Position X="12.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAACAEIAAAAAIBAAABCAAAAAAAAAQYAgQAAQCAAA=</HashCode>
+      <FileName>Unit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Pacman.Sprite">
+    <Position X="22" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAACAA=</HashCode>
+      <FileName>ConsoleLib.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="Pacman.Direction">
+    <Position X="22" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAgAIAAAAAAAAAgAAgAA=</HashCode>
+      <FileName>ConsoleLib.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="Pacman.Move">
+    <Position X="25.5" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="Pacman.Eaten">
+    <Position X="22" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="Pacman.Exit">
+    <Position X="23.75" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

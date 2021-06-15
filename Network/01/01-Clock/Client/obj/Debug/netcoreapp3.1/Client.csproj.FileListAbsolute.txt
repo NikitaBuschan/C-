@@ -1,0 +1,13 @@
+E:\.net\HomeWork\Network\01\Clock\Client\bin\Debug\netcoreapp3.1\Client.exe
+E:\.net\HomeWork\Network\01\Clock\Client\bin\Debug\netcoreapp3.1\Client.deps.json
+E:\.net\HomeWork\Network\01\Clock\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.json
+E:\.net\HomeWork\Network\01\Clock\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.dev.json
+E:\.net\HomeWork\Network\01\Clock\Client\bin\Debug\netcoreapp3.1\Client.dll
+E:\.net\HomeWork\Network\01\Clock\Client\bin\Debug\netcoreapp3.1\Client.pdb
+E:\.net\HomeWork\Network\01\Clock\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfoInputs.cache
+E:\.net\HomeWork\Network\01\Clock\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfo.cs
+E:\.net\HomeWork\Network\01\Clock\Client\obj\Debug\netcoreapp3.1\Client.csproj.CoreCompileInputs.cache
+E:\.net\HomeWork\Network\01\Clock\Client\obj\Debug\netcoreapp3.1\Client.dll
+E:\.net\HomeWork\Network\01\Clock\Client\obj\Debug\netcoreapp3.1\Client.pdb
+E:\.net\HomeWork\Network\01\Clock\Client\obj\Debug\netcoreapp3.1\Client.genruntimeconfig.cache
+E:\.net\HomeWork\Network\01\Clock\Client\obj\Debug\netcoreapp3.1\Client.csprojAssemblyReference.cache

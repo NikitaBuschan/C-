@@ -1,0 +1,13 @@
+E:\.net\HomeWork\Network\01\Clock\Clock\bin\Debug\netcoreapp3.1\Clock.exe
+E:\.net\HomeWork\Network\01\Clock\Clock\bin\Debug\netcoreapp3.1\Clock.deps.json
+E:\.net\HomeWork\Network\01\Clock\Clock\bin\Debug\netcoreapp3.1\Clock.runtimeconfig.json
+E:\.net\HomeWork\Network\01\Clock\Clock\bin\Debug\netcoreapp3.1\Clock.runtimeconfig.dev.json
+E:\.net\HomeWork\Network\01\Clock\Clock\bin\Debug\netcoreapp3.1\Clock.dll
+E:\.net\HomeWork\Network\01\Clock\Clock\bin\Debug\netcoreapp3.1\Clock.pdb
+E:\.net\HomeWork\Network\01\Clock\Clock\obj\Debug\netcoreapp3.1\Clock.csprojAssemblyReference.cache
+E:\.net\HomeWork\Network\01\Clock\Clock\obj\Debug\netcoreapp3.1\Clock.AssemblyInfoInputs.cache
+E:\.net\HomeWork\Network\01\Clock\Clock\obj\Debug\netcoreapp3.1\Clock.AssemblyInfo.cs
+E:\.net\HomeWork\Network\01\Clock\Clock\obj\Debug\netcoreapp3.1\Clock.csproj.CoreCompileInputs.cache
+E:\.net\HomeWork\Network\01\Clock\Clock\obj\Debug\netcoreapp3.1\Clock.dll
+E:\.net\HomeWork\Network\01\Clock\Clock\obj\Debug\netcoreapp3.1\Clock.pdb
+E:\.net\HomeWork\Network\01\Clock\Clock\obj\Debug\netcoreapp3.1\Clock.genruntimeconfig.cache

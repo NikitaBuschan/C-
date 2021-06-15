@@ -1,0 +1,11 @@
+D:\Users\Nikita\Desktop\DB\ADO.NET\DisconnectedLayer\Fridge\Fridges\Fridges\bin\Debug\Fridges.exe.config
+D:\Users\Nikita\Desktop\DB\ADO.NET\DisconnectedLayer\Fridge\Fridges\Fridges\bin\Debug\Fridges.exe
+D:\Users\Nikita\Desktop\DB\ADO.NET\DisconnectedLayer\Fridge\Fridges\Fridges\bin\Debug\Fridges.pdb
+D:\Users\Nikita\Desktop\DB\ADO.NET\DisconnectedLayer\Fridge\Fridges\Fridges\obj\Debug\Fridges.csprojAssemblyReference.cache
+D:\Users\Nikita\Desktop\DB\ADO.NET\DisconnectedLayer\Fridge\Fridges\Fridges\obj\Debug\Fridges.Properties.Resources.resources
+D:\Users\Nikita\Desktop\DB\ADO.NET\DisconnectedLayer\Fridge\Fridges\Fridges\obj\Debug\Fridges.ReceiptView.resources
+D:\Users\Nikita\Desktop\DB\ADO.NET\DisconnectedLayer\Fridge\Fridges\Fridges\obj\Debug\Fridges.csproj.GenerateResource.cache
+D:\Users\Nikita\Desktop\DB\ADO.NET\DisconnectedLayer\Fridge\Fridges\Fridges\obj\Debug\Fridges.csproj.CoreCompileInputs.cache
+D:\Users\Nikita\Desktop\DB\ADO.NET\DisconnectedLayer\Fridge\Fridges\Fridges\obj\Debug\Fridges.exe
+D:\Users\Nikita\Desktop\DB\ADO.NET\DisconnectedLayer\Fridge\Fridges\Fridges\obj\Debug\Fridges.pdb
+D:\Users\Nikita\Desktop\DB\ADO.NET\DisconnectedLayer\Fridge\Fridges\Fridges\obj\Debug\Fridges.FridgeView.resources

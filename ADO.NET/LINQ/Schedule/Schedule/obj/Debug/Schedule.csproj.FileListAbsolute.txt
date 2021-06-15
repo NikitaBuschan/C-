@@ -1,0 +1,15 @@
+D:\Users\Nikita\Desktop\DB\ADO.NET\LINQ\Schedule\Schedule\bin\Debug\Schedule.exe.config
+D:\Users\Nikita\Desktop\DB\ADO.NET\LINQ\Schedule\Schedule\bin\Debug\Schedule.exe
+D:\Users\Nikita\Desktop\DB\ADO.NET\LINQ\Schedule\Schedule\bin\Debug\Schedule.pdb
+D:\Users\Nikita\Desktop\DB\ADO.NET\LINQ\Schedule\Schedule\bin\Debug\EntityFramework.dll
+D:\Users\Nikita\Desktop\DB\ADO.NET\LINQ\Schedule\Schedule\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\Nikita\Desktop\DB\ADO.NET\LINQ\Schedule\Schedule\bin\Debug\EntityFramework.xml
+D:\Users\Nikita\Desktop\DB\ADO.NET\LINQ\Schedule\Schedule\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\Nikita\Desktop\DB\ADO.NET\LINQ\Schedule\Schedule\obj\Debug\Schedule.csprojAssemblyReference.cache
+D:\Users\Nikita\Desktop\DB\ADO.NET\LINQ\Schedule\Schedule\obj\Debug\Schedule.ScheduleView.resources
+D:\Users\Nikita\Desktop\DB\ADO.NET\LINQ\Schedule\Schedule\obj\Debug\Schedule.Properties.Resources.resources
+D:\Users\Nikita\Desktop\DB\ADO.NET\LINQ\Schedule\Schedule\obj\Debug\Schedule.csproj.GenerateResource.cache
+D:\Users\Nikita\Desktop\DB\ADO.NET\LINQ\Schedule\Schedule\obj\Debug\Schedule.csproj.CoreCompileInputs.cache
+D:\Users\Nikita\Desktop\DB\ADO.NET\LINQ\Schedule\Schedule\obj\Debug\Schedule.csproj.CopyComplete
+D:\Users\Nikita\Desktop\DB\ADO.NET\LINQ\Schedule\Schedule\obj\Debug\Schedule.exe
+D:\Users\Nikita\Desktop\DB\ADO.NET\LINQ\Schedule\Schedule\obj\Debug\Schedule.pdb

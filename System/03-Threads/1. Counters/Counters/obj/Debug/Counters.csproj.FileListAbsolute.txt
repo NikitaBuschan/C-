@@ -1,0 +1,20 @@
+E:\.net\HomeWork\System\Threads\Counters\Counters\bin\Debug\Counters.exe.config
+E:\.net\HomeWork\System\Threads\Counters\Counters\bin\Debug\Counters.exe
+E:\.net\HomeWork\System\Threads\Counters\Counters\bin\Debug\Counters.pdb
+E:\.net\HomeWork\System\Threads\Counters\Counters\obj\Debug\Counters.csprojAssemblyReference.cache
+E:\.net\HomeWork\System\Threads\Counters\Counters\obj\Debug\Counters.Properties.Resources.resources
+E:\.net\HomeWork\System\Threads\Counters\Counters\obj\Debug\Counters.csproj.GenerateResource.cache
+E:\.net\HomeWork\System\Threads\Counters\Counters\obj\Debug\Counters.csproj.CoreCompileInputs.cache
+E:\.net\HomeWork\System\Threads\Counters\Counters\obj\Debug\Counters.exe
+E:\.net\HomeWork\System\Threads\Counters\Counters\obj\Debug\Counters.pdb
+E:\.net\HomeWork\System\Threads\Counters\Counters\obj\Debug\Counters.MyThread.resources
+E:\.net\HomeWork\System\03-Threads\1. Counters\Counters\bin\Debug\Counters.exe.config
+E:\.net\HomeWork\System\03-Threads\1. Counters\Counters\bin\Debug\Counters.exe
+E:\.net\HomeWork\System\03-Threads\1. Counters\Counters\bin\Debug\Counters.pdb
+E:\.net\HomeWork\System\03-Threads\1. Counters\Counters\obj\Debug\Counters.csprojAssemblyReference.cache
+E:\.net\HomeWork\System\03-Threads\1. Counters\Counters\obj\Debug\Counters.MyThread.resources
+E:\.net\HomeWork\System\03-Threads\1. Counters\Counters\obj\Debug\Counters.Properties.Resources.resources
+E:\.net\HomeWork\System\03-Threads\1. Counters\Counters\obj\Debug\Counters.csproj.GenerateResource.cache
+E:\.net\HomeWork\System\03-Threads\1. Counters\Counters\obj\Debug\Counters.csproj.CoreCompileInputs.cache
+E:\.net\HomeWork\System\03-Threads\1. Counters\Counters\obj\Debug\Counters.exe
+E:\.net\HomeWork\System\03-Threads\1. Counters\Counters\obj\Debug\Counters.pdb

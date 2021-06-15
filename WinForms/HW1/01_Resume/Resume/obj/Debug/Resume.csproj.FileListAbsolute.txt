@@ -1,0 +1,9 @@
+E:\.net\HomeWork\WinForms\HW1\01_Resume\Resume\bin\Debug\Resume.exe.config
+E:\.net\HomeWork\WinForms\HW1\01_Resume\Resume\bin\Debug\Resume.exe
+E:\.net\HomeWork\WinForms\HW1\01_Resume\Resume\bin\Debug\Resume.pdb
+E:\.net\HomeWork\WinForms\HW1\01_Resume\Resume\obj\Debug\Resume.csprojAssemblyReference.cache
+E:\.net\HomeWork\WinForms\HW1\01_Resume\Resume\obj\Debug\Resume.Properties.Resources.resources
+E:\.net\HomeWork\WinForms\HW1\01_Resume\Resume\obj\Debug\Resume.csproj.GenerateResource.cache
+E:\.net\HomeWork\WinForms\HW1\01_Resume\Resume\obj\Debug\Resume.csproj.CoreCompileInputs.cache
+E:\.net\HomeWork\WinForms\HW1\01_Resume\Resume\obj\Debug\Resume.exe
+E:\.net\HomeWork\WinForms\HW1\01_Resume\Resume\obj\Debug\Resume.pdb

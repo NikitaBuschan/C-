@@ -1,0 +1,7 @@
+E:\.net\HomeWork\Network\01\02-Chat\Chat02\Common\obj\Debug\Common.csprojAssemblyReference.cache
+E:\.net\HomeWork\Network\01\02-Chat\Chat02\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+E:\.net\HomeWork\Network\01\02-Chat\Chat02\Common\bin\Debug\Common.exe.config
+E:\.net\HomeWork\Network\01\02-Chat\Chat02\Common\bin\Debug\Common.exe
+E:\.net\HomeWork\Network\01\02-Chat\Chat02\Common\bin\Debug\Common.pdb
+E:\.net\HomeWork\Network\01\02-Chat\Chat02\Common\obj\Debug\Common.exe
+E:\.net\HomeWork\Network\01\02-Chat\Chat02\Common\obj\Debug\Common.pdb

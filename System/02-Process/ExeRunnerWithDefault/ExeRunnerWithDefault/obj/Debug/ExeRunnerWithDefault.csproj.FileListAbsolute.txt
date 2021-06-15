@@ -1,0 +1,10 @@
+E:\.net\HomeWork\System\02-Process\ExeRunnerWithDefault\ExeRunnerWithDefault\bin\Debug\ExeRunnerWithDefault.exe.config
+E:\.net\HomeWork\System\02-Process\ExeRunnerWithDefault\ExeRunnerWithDefault\bin\Debug\ExeRunnerWithDefault.exe
+E:\.net\HomeWork\System\02-Process\ExeRunnerWithDefault\ExeRunnerWithDefault\bin\Debug\ExeRunnerWithDefault.pdb
+E:\.net\HomeWork\System\02-Process\ExeRunnerWithDefault\ExeRunnerWithDefault\obj\Debug\ExeRunnerWithDefault.csprojAssemblyReference.cache
+E:\.net\HomeWork\System\02-Process\ExeRunnerWithDefault\ExeRunnerWithDefault\obj\Debug\ExeRunnerWithDefault.ExeRunnerForm.resources
+E:\.net\HomeWork\System\02-Process\ExeRunnerWithDefault\ExeRunnerWithDefault\obj\Debug\ExeRunnerWithDefault.Properties.Resources.resources
+E:\.net\HomeWork\System\02-Process\ExeRunnerWithDefault\ExeRunnerWithDefault\obj\Debug\ExeRunnerWithDefault.csproj.GenerateResource.cache
+E:\.net\HomeWork\System\02-Process\ExeRunnerWithDefault\ExeRunnerWithDefault\obj\Debug\ExeRunnerWithDefault.csproj.CoreCompileInputs.cache
+E:\.net\HomeWork\System\02-Process\ExeRunnerWithDefault\ExeRunnerWithDefault\obj\Debug\ExeRunnerWithDefault.exe
+E:\.net\HomeWork\System\02-Process\ExeRunnerWithDefault\ExeRunnerWithDefault\obj\Debug\ExeRunnerWithDefault.pdb

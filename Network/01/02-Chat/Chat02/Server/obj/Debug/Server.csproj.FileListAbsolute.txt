@@ -1,0 +1,14 @@
+E:\.net\HomeWork\Network\01\02-Chat\Chat02\Server\obj\Debug\Server.csprojAssemblyReference.cache
+E:\.net\HomeWork\Network\01\02-Chat\Chat02\Server\obj\Debug\Server.Properties.Resources.resources
+E:\.net\HomeWork\Network\01\02-Chat\Chat02\Server\obj\Debug\Server.csproj.GenerateResource.cache
+E:\.net\HomeWork\Network\01\02-Chat\Chat02\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\.net\HomeWork\Network\01\02-Chat\Chat02\Server\bin\Debug\Server.exe.config
+E:\.net\HomeWork\Network\01\02-Chat\Chat02\Server\bin\Debug\Server.exe
+E:\.net\HomeWork\Network\01\02-Chat\Chat02\Server\bin\Debug\Server.pdb
+E:\.net\HomeWork\Network\01\02-Chat\Chat02\Server\bin\Debug\Common.exe
+E:\.net\HomeWork\Network\01\02-Chat\Chat02\Server\bin\Debug\Common.pdb
+E:\.net\HomeWork\Network\01\02-Chat\Chat02\Server\bin\Debug\Common.exe.config
+E:\.net\HomeWork\Network\01\02-Chat\Chat02\Server\obj\Debug\Server.Server.resources
+E:\.net\HomeWork\Network\01\02-Chat\Chat02\Server\obj\Debug\Server.csproj.CopyComplete
+E:\.net\HomeWork\Network\01\02-Chat\Chat02\Server\obj\Debug\Server.exe
+E:\.net\HomeWork\Network\01\02-Chat\Chat02\Server\obj\Debug\Server.pdb

@@ -1,0 +1,9 @@
+E:\.net\HomeWork\Network\01\02-Chat\Chat\Chat\bin\Debug\Chat.exe.config
+E:\.net\HomeWork\Network\01\02-Chat\Chat\Chat\bin\Debug\Chat.exe
+E:\.net\HomeWork\Network\01\02-Chat\Chat\Chat\bin\Debug\Chat.pdb
+E:\.net\HomeWork\Network\01\02-Chat\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+E:\.net\HomeWork\Network\01\02-Chat\Chat\Chat\obj\Debug\Chat.server.csproj.GenerateResource.cache
+E:\.net\HomeWork\Network\01\02-Chat\Chat\Chat\obj\Debug\Chat.server.csproj.CoreCompileInputs.cache
+E:\.net\HomeWork\Network\01\02-Chat\Chat\Chat\obj\Debug\Chat.exe
+E:\.net\HomeWork\Network\01\02-Chat\Chat\Chat\obj\Debug\Chat.pdb
+E:\.net\HomeWork\Network\01\02-Chat\Chat\Chat\obj\Debug\Chat.Server.resources

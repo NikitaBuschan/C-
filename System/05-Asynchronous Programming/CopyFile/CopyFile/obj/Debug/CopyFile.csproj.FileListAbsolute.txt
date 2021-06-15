@@ -1,0 +1,10 @@
+E:\.net\HomeWork\System\05-Asynchronous Programming\CopyFile\CopyFile\bin\Debug\CopyFile.exe.config
+E:\.net\HomeWork\System\05-Asynchronous Programming\CopyFile\CopyFile\bin\Debug\CopyFile.exe
+E:\.net\HomeWork\System\05-Asynchronous Programming\CopyFile\CopyFile\bin\Debug\CopyFile.pdb
+E:\.net\HomeWork\System\05-Asynchronous Programming\CopyFile\CopyFile\obj\Debug\CopyFile.csprojAssemblyReference.cache
+E:\.net\HomeWork\System\05-Asynchronous Programming\CopyFile\CopyFile\obj\Debug\CopyFile.CopyFile.resources
+E:\.net\HomeWork\System\05-Asynchronous Programming\CopyFile\CopyFile\obj\Debug\CopyFile.Properties.Resources.resources
+E:\.net\HomeWork\System\05-Asynchronous Programming\CopyFile\CopyFile\obj\Debug\CopyFile.csproj.GenerateResource.cache
+E:\.net\HomeWork\System\05-Asynchronous Programming\CopyFile\CopyFile\obj\Debug\CopyFile.csproj.CoreCompileInputs.cache
+E:\.net\HomeWork\System\05-Asynchronous Programming\CopyFile\CopyFile\obj\Debug\CopyFile.exe
+E:\.net\HomeWork\System\05-Asynchronous Programming\CopyFile\CopyFile\obj\Debug\CopyFile.pdb

@@ -1,0 +1,10 @@
+E:\.net\HomeWork\WinForms\HW6\Chess\Chess\bin\Debug\Chess.exe.config
+E:\.net\HomeWork\WinForms\HW6\Chess\Chess\bin\Debug\Chess.exe
+E:\.net\HomeWork\WinForms\HW6\Chess\Chess\bin\Debug\Chess.pdb
+E:\.net\HomeWork\WinForms\HW6\Chess\Chess\obj\Debug\Chess.csprojAssemblyReference.cache
+E:\.net\HomeWork\WinForms\HW6\Chess\Chess\obj\Debug\Chess.Properties.Resources.resources
+E:\.net\HomeWork\WinForms\HW6\Chess\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+E:\.net\HomeWork\WinForms\HW6\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+E:\.net\HomeWork\WinForms\HW6\Chess\Chess\obj\Debug\Chess.exe
+E:\.net\HomeWork\WinForms\HW6\Chess\Chess\obj\Debug\Chess.pdb
+E:\.net\HomeWork\WinForms\HW6\Chess\Chess\obj\Debug\Chess.CheesView.resources

@@ -1,0 +1,39 @@
+D:\Users\Nikita\Desktop\Projects 2019\AirReconnaissance\AirReconnaissance\bin\Debug\netcoreapp3.1\AirReconnaissance.exe
+D:\Users\Nikita\Desktop\Projects 2019\AirReconnaissance\AirReconnaissance\bin\Debug\netcoreapp3.1\AirReconnaissance.deps.json
+D:\Users\Nikita\Desktop\Projects 2019\AirReconnaissance\AirReconnaissance\bin\Debug\netcoreapp3.1\AirReconnaissance.runtimeconfig.json
+D:\Users\Nikita\Desktop\Projects 2019\AirReconnaissance\AirReconnaissance\bin\Debug\netcoreapp3.1\AirReconnaissance.runtimeconfig.dev.json
+D:\Users\Nikita\Desktop\Projects 2019\AirReconnaissance\AirReconnaissance\bin\Debug\netcoreapp3.1\AirReconnaissance.dll
+D:\Users\Nikita\Desktop\Projects 2019\AirReconnaissance\AirReconnaissance\bin\Debug\netcoreapp3.1\AirReconnaissance.pdb
+D:\Users\Nikita\Desktop\Projects 2019\AirReconnaissance\AirReconnaissance\obj\Debug\netcoreapp3.1\AirReconnaissance.csprojAssemblyReference.cache
+D:\Users\Nikita\Desktop\Projects 2019\AirReconnaissance\AirReconnaissance\obj\Debug\netcoreapp3.1\AirReconnaissance.csproj.CoreCompileInputs.cache
+D:\Users\Nikita\Desktop\Projects 2019\AirReconnaissance\AirReconnaissance\obj\Debug\netcoreapp3.1\AirReconnaissance.AssemblyInfoInputs.cache
+D:\Users\Nikita\Desktop\Projects 2019\AirReconnaissance\AirReconnaissance\obj\Debug\netcoreapp3.1\AirReconnaissance.AssemblyInfo.cs
+D:\Users\Nikita\Desktop\Projects 2019\AirReconnaissance\AirReconnaissance\obj\Debug\netcoreapp3.1\AirReconnaissance.dll
+D:\Users\Nikita\Desktop\Projects 2019\AirReconnaissance\AirReconnaissance\obj\Debug\netcoreapp3.1\AirReconnaissance.pdb
+D:\Users\Nikita\Desktop\Projects 2019\AirReconnaissance\AirReconnaissance\obj\Debug\netcoreapp3.1\AirReconnaissance.genruntimeconfig.cache
+E:\.net\HomeWork\System\04-Threads-Synchronization\AirReconnaissance\AirReconnaissance\bin\Debug\netcoreapp3.1\AirReconnaissance.exe
+E:\.net\HomeWork\System\04-Threads-Synchronization\AirReconnaissance\AirReconnaissance\bin\Debug\netcoreapp3.1\AirReconnaissance.deps.json
+E:\.net\HomeWork\System\04-Threads-Synchronization\AirReconnaissance\AirReconnaissance\bin\Debug\netcoreapp3.1\AirReconnaissance.runtimeconfig.json
+E:\.net\HomeWork\System\04-Threads-Synchronization\AirReconnaissance\AirReconnaissance\bin\Debug\netcoreapp3.1\AirReconnaissance.runtimeconfig.dev.json
+E:\.net\HomeWork\System\04-Threads-Synchronization\AirReconnaissance\AirReconnaissance\bin\Debug\netcoreapp3.1\AirReconnaissance.dll
+E:\.net\HomeWork\System\04-Threads-Synchronization\AirReconnaissance\AirReconnaissance\bin\Debug\netcoreapp3.1\AirReconnaissance.pdb
+E:\.net\HomeWork\System\04-Threads-Synchronization\AirReconnaissance\AirReconnaissance\obj\Debug\netcoreapp3.1\AirReconnaissance.csprojAssemblyReference.cache
+E:\.net\HomeWork\System\04-Threads-Synchronization\AirReconnaissance\AirReconnaissance\obj\Debug\netcoreapp3.1\AirReconnaissance.csproj.CoreCompileInputs.cache
+E:\.net\HomeWork\System\04-Threads-Synchronization\AirReconnaissance\AirReconnaissance\obj\Debug\netcoreapp3.1\AirReconnaissance.AssemblyInfoInputs.cache
+E:\.net\HomeWork\System\04-Threads-Synchronization\AirReconnaissance\AirReconnaissance\obj\Debug\netcoreapp3.1\AirReconnaissance.AssemblyInfo.cs
+E:\.net\HomeWork\System\04-Threads-Synchronization\AirReconnaissance\AirReconnaissance\obj\Debug\netcoreapp3.1\AirReconnaissance.dll
+E:\.net\HomeWork\System\04-Threads-Synchronization\AirReconnaissance\AirReconnaissance\obj\Debug\netcoreapp3.1\AirReconnaissance.pdb
+E:\.net\HomeWork\System\04-Threads-Synchronization\AirReconnaissance\AirReconnaissance\obj\Debug\netcoreapp3.1\AirReconnaissance.genruntimeconfig.cache
+E:\.net\HomeWork\System\04-Threads-Synchronization\3. AirReconnaissance\AirReconnaissance\bin\Debug\netcoreapp3.1\AirReconnaissance.exe
+E:\.net\HomeWork\System\04-Threads-Synchronization\3. AirReconnaissance\AirReconnaissance\bin\Debug\netcoreapp3.1\AirReconnaissance.deps.json
+E:\.net\HomeWork\System\04-Threads-Synchronization\3. AirReconnaissance\AirReconnaissance\bin\Debug\netcoreapp3.1\AirReconnaissance.runtimeconfig.json
+E:\.net\HomeWork\System\04-Threads-Synchronization\3. AirReconnaissance\AirReconnaissance\bin\Debug\netcoreapp3.1\AirReconnaissance.runtimeconfig.dev.json
+E:\.net\HomeWork\System\04-Threads-Synchronization\3. AirReconnaissance\AirReconnaissance\bin\Debug\netcoreapp3.1\AirReconnaissance.dll
+E:\.net\HomeWork\System\04-Threads-Synchronization\3. AirReconnaissance\AirReconnaissance\bin\Debug\netcoreapp3.1\AirReconnaissance.pdb
+E:\.net\HomeWork\System\04-Threads-Synchronization\3. AirReconnaissance\AirReconnaissance\obj\Debug\netcoreapp3.1\AirReconnaissance.csprojAssemblyReference.cache
+E:\.net\HomeWork\System\04-Threads-Synchronization\3. AirReconnaissance\AirReconnaissance\obj\Debug\netcoreapp3.1\AirReconnaissance.AssemblyInfoInputs.cache
+E:\.net\HomeWork\System\04-Threads-Synchronization\3. AirReconnaissance\AirReconnaissance\obj\Debug\netcoreapp3.1\AirReconnaissance.AssemblyInfo.cs
+E:\.net\HomeWork\System\04-Threads-Synchronization\3. AirReconnaissance\AirReconnaissance\obj\Debug\netcoreapp3.1\AirReconnaissance.csproj.CoreCompileInputs.cache
+E:\.net\HomeWork\System\04-Threads-Synchronization\3. AirReconnaissance\AirReconnaissance\obj\Debug\netcoreapp3.1\AirReconnaissance.dll
+E:\.net\HomeWork\System\04-Threads-Synchronization\3. AirReconnaissance\AirReconnaissance\obj\Debug\netcoreapp3.1\AirReconnaissance.pdb
+E:\.net\HomeWork\System\04-Threads-Synchronization\3. AirReconnaissance\AirReconnaissance\obj\Debug\netcoreapp3.1\AirReconnaissance.genruntimeconfig.cache

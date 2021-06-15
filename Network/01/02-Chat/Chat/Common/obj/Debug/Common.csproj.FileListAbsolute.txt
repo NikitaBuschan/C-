@@ -1,0 +1,1 @@
+E:\.net\HomeWork\Network\01\02-Chat\Chat\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache

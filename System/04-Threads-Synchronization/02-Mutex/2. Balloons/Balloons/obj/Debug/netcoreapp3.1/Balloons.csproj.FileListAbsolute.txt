@@ -1,0 +1,13 @@
+E:\.net\HomeWork\System\04-Threads-Synchronization\Balloons\Balloons\bin\Debug\netcoreapp3.1\Balloons.exe
+E:\.net\HomeWork\System\04-Threads-Synchronization\Balloons\Balloons\bin\Debug\netcoreapp3.1\Balloons.deps.json
+E:\.net\HomeWork\System\04-Threads-Synchronization\Balloons\Balloons\bin\Debug\netcoreapp3.1\Balloons.runtimeconfig.json
+E:\.net\HomeWork\System\04-Threads-Synchronization\Balloons\Balloons\bin\Debug\netcoreapp3.1\Balloons.runtimeconfig.dev.json
+E:\.net\HomeWork\System\04-Threads-Synchronization\Balloons\Balloons\bin\Debug\netcoreapp3.1\Balloons.dll
+E:\.net\HomeWork\System\04-Threads-Synchronization\Balloons\Balloons\bin\Debug\netcoreapp3.1\Balloons.pdb
+E:\.net\HomeWork\System\04-Threads-Synchronization\Balloons\Balloons\obj\Debug\netcoreapp3.1\Balloons.csprojAssemblyReference.cache
+E:\.net\HomeWork\System\04-Threads-Synchronization\Balloons\Balloons\obj\Debug\netcoreapp3.1\Balloons.csproj.CoreCompileInputs.cache
+E:\.net\HomeWork\System\04-Threads-Synchronization\Balloons\Balloons\obj\Debug\netcoreapp3.1\Balloons.AssemblyInfoInputs.cache
+E:\.net\HomeWork\System\04-Threads-Synchronization\Balloons\Balloons\obj\Debug\netcoreapp3.1\Balloons.AssemblyInfo.cs
+E:\.net\HomeWork\System\04-Threads-Synchronization\Balloons\Balloons\obj\Debug\netcoreapp3.1\Balloons.dll
+E:\.net\HomeWork\System\04-Threads-Synchronization\Balloons\Balloons\obj\Debug\netcoreapp3.1\Balloons.pdb
+E:\.net\HomeWork\System\04-Threads-Synchronization\Balloons\Balloons\obj\Debug\netcoreapp3.1\Balloons.genruntimeconfig.cache

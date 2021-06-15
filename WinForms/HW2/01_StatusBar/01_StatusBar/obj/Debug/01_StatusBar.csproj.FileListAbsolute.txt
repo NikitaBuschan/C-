@@ -1,0 +1,10 @@
+E:\.net\HomeWork\WinForms\HW2\01_StatusBar\01_StatusBar\bin\Debug\01_StatusBar.exe.config
+E:\.net\HomeWork\WinForms\HW2\01_StatusBar\01_StatusBar\bin\Debug\01_StatusBar.exe
+E:\.net\HomeWork\WinForms\HW2\01_StatusBar\01_StatusBar\bin\Debug\01_StatusBar.pdb
+E:\.net\HomeWork\WinForms\HW2\01_StatusBar\01_StatusBar\obj\Debug\01_StatusBar.csprojAssemblyReference.cache
+E:\.net\HomeWork\WinForms\HW2\01_StatusBar\01_StatusBar\obj\Debug\_01_StatusBar.FormMain.resources
+E:\.net\HomeWork\WinForms\HW2\01_StatusBar\01_StatusBar\obj\Debug\_01_StatusBar.Properties.Resources.resources
+E:\.net\HomeWork\WinForms\HW2\01_StatusBar\01_StatusBar\obj\Debug\01_StatusBar.csproj.GenerateResource.cache
+E:\.net\HomeWork\WinForms\HW2\01_StatusBar\01_StatusBar\obj\Debug\01_StatusBar.csproj.CoreCompileInputs.cache
+E:\.net\HomeWork\WinForms\HW2\01_StatusBar\01_StatusBar\obj\Debug\01_StatusBar.exe
+E:\.net\HomeWork\WinForms\HW2\01_StatusBar\01_StatusBar\obj\Debug\01_StatusBar.pdb

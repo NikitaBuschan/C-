@@ -1,0 +1,6 @@
+D:\.net\HomeWork\C#\Packman\Packman\obj\Debug\Pacman.csprojAssemblyReference.cache
+D:\.net\HomeWork\C#\Packman\Packman\obj\Debug\Packman.exe
+D:\.net\HomeWork\C#\Packman\Packman\obj\Debug\Packman.pdb
+D:\.net\HomeWork\C#\Packman\Packman\bin\Debug\Packman.exe.config
+D:\.net\HomeWork\C#\Packman\Packman\bin\Debug\Packman.exe
+D:\.net\HomeWork\C#\Packman\Packman\bin\Debug\Packman.pdb

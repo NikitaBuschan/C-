@@ -1,0 +1,11 @@
+E:\.net\HomeWork\WinForms\HW3\02_ComputerCompany\02_ComputerCompany\bin\Debug\02_ComputerCompany.exe.config
+E:\.net\HomeWork\WinForms\HW3\02_ComputerCompany\02_ComputerCompany\bin\Debug\02_ComputerCompany.exe
+E:\.net\HomeWork\WinForms\HW3\02_ComputerCompany\02_ComputerCompany\bin\Debug\02_ComputerCompany.pdb
+E:\.net\HomeWork\WinForms\HW3\02_ComputerCompany\02_ComputerCompany\obj\Debug\02_ComputerCompany.csprojAssemblyReference.cache
+E:\.net\HomeWork\WinForms\HW3\02_ComputerCompany\02_ComputerCompany\obj\Debug\_02_ComputerCompany.Info.resources
+E:\.net\HomeWork\WinForms\HW3\02_ComputerCompany\02_ComputerCompany\obj\Debug\_02_ComputerCompany.FormMain.resources
+E:\.net\HomeWork\WinForms\HW3\02_ComputerCompany\02_ComputerCompany\obj\Debug\_02_ComputerCompany.Properties.Resources.resources
+E:\.net\HomeWork\WinForms\HW3\02_ComputerCompany\02_ComputerCompany\obj\Debug\02_ComputerCompany.csproj.GenerateResource.cache
+E:\.net\HomeWork\WinForms\HW3\02_ComputerCompany\02_ComputerCompany\obj\Debug\02_ComputerCompany.csproj.CoreCompileInputs.cache
+E:\.net\HomeWork\WinForms\HW3\02_ComputerCompany\02_ComputerCompany\obj\Debug\02_ComputerCompany.exe
+E:\.net\HomeWork\WinForms\HW3\02_ComputerCompany\02_ComputerCompany\obj\Debug\02_ComputerCompany.pdb

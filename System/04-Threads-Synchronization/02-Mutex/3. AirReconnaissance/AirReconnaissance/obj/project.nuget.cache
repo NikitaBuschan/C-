@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BnDGS7HYEvLYBNpoM2OYbUWnG0orRVhPyx/ilJWwQvWS6xQvvDontjJ9p/tkyxTqPp+TzrwAKA1/zvJ9krMxZg==",
+  "success": true,
+  "projectFilePath": "E:\\.net\\HomeWork\\System\\04-Threads-Synchronization\\3. AirReconnaissance\\AirReconnaissance\\AirReconnaissance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikit\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

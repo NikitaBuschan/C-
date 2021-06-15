@@ -1,0 +1,11 @@
+C:\Users\Nikita\Desktop\DB\ADO.NET\ConnecterLayer\02\MVPTestThree\bin\Debug\EmployeeAccounting.exe.config
+C:\Users\Nikita\Desktop\DB\ADO.NET\ConnecterLayer\02\MVPTestThree\bin\Debug\EmployeeAccounting.exe
+C:\Users\Nikita\Desktop\DB\ADO.NET\ConnecterLayer\02\MVPTestThree\bin\Debug\EmployeeAccounting.pdb
+C:\Users\Nikita\Desktop\DB\ADO.NET\ConnecterLayer\02\MVPTestThree\obj\Debug\EmployeeAccounting.csprojAssemblyReference.cache
+C:\Users\Nikita\Desktop\DB\ADO.NET\ConnecterLayer\02\MVPTestThree\obj\Debug\MVPTestThree.View.ViewAdd.resources
+C:\Users\Nikita\Desktop\DB\ADO.NET\ConnecterLayer\02\MVPTestThree\obj\Debug\MVPTestThree.View.ViewEditForm.resources
+C:\Users\Nikita\Desktop\DB\ADO.NET\ConnecterLayer\02\MVPTestThree\obj\Debug\MVPTestThree.ViewMainForm.resources
+C:\Users\Nikita\Desktop\DB\ADO.NET\ConnecterLayer\02\MVPTestThree\obj\Debug\EmployeeAccounting.Properties.Resources.resources
+C:\Users\Nikita\Desktop\DB\ADO.NET\ConnecterLayer\02\MVPTestThree\obj\Debug\EmployeeAccounting.csproj.GenerateResource.cache
+C:\Users\Nikita\Desktop\DB\ADO.NET\ConnecterLayer\02\MVPTestThree\obj\Debug\EmployeeAccounting.exe
+C:\Users\Nikita\Desktop\DB\ADO.NET\ConnecterLayer\02\MVPTestThree\obj\Debug\EmployeeAccounting.pdb

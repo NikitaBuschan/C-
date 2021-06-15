@@ -1,0 +1,10 @@
+E:\.net\HomeWork\WinForms\HW1\02_GuessNumber\GuessNumber\bin\Debug\GuessNumber.exe.config
+E:\.net\HomeWork\WinForms\HW1\02_GuessNumber\GuessNumber\bin\Debug\GuessNumber.exe
+E:\.net\HomeWork\WinForms\HW1\02_GuessNumber\GuessNumber\bin\Debug\GuessNumber.pdb
+E:\.net\HomeWork\WinForms\HW1\02_GuessNumber\GuessNumber\obj\Debug\GuessNumber.csprojAssemblyReference.cache
+E:\.net\HomeWork\WinForms\HW1\02_GuessNumber\GuessNumber\obj\Debug\GuessNumber.MainForm.resources
+E:\.net\HomeWork\WinForms\HW1\02_GuessNumber\GuessNumber\obj\Debug\GuessNumber.Properties.Resources.resources
+E:\.net\HomeWork\WinForms\HW1\02_GuessNumber\GuessNumber\obj\Debug\GuessNumber.csproj.GenerateResource.cache
+E:\.net\HomeWork\WinForms\HW1\02_GuessNumber\GuessNumber\obj\Debug\GuessNumber.csproj.CoreCompileInputs.cache
+E:\.net\HomeWork\WinForms\HW1\02_GuessNumber\GuessNumber\obj\Debug\GuessNumber.exe
+E:\.net\HomeWork\WinForms\HW1\02_GuessNumber\GuessNumber\obj\Debug\GuessNumber.pdb

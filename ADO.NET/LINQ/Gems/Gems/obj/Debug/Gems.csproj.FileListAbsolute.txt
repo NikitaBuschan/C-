@@ -1,0 +1,15 @@
+D:\Users\Nikita\Desktop\DB\ADO.NET\LINQ\Gems\Gems\bin\Debug\Gems.exe.config
+D:\Users\Nikita\Desktop\DB\ADO.NET\LINQ\Gems\Gems\bin\Debug\Gems.exe
+D:\Users\Nikita\Desktop\DB\ADO.NET\LINQ\Gems\Gems\bin\Debug\Gems.pdb
+D:\Users\Nikita\Desktop\DB\ADO.NET\LINQ\Gems\Gems\bin\Debug\EntityFramework.dll
+D:\Users\Nikita\Desktop\DB\ADO.NET\LINQ\Gems\Gems\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\Nikita\Desktop\DB\ADO.NET\LINQ\Gems\Gems\bin\Debug\EntityFramework.xml
+D:\Users\Nikita\Desktop\DB\ADO.NET\LINQ\Gems\Gems\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\Nikita\Desktop\DB\ADO.NET\LINQ\Gems\Gems\obj\Debug\Gems.csprojAssemblyReference.cache
+D:\Users\Nikita\Desktop\DB\ADO.NET\LINQ\Gems\Gems\obj\Debug\Gems.GemsView.resources
+D:\Users\Nikita\Desktop\DB\ADO.NET\LINQ\Gems\Gems\obj\Debug\Gems.Properties.Resources.resources
+D:\Users\Nikita\Desktop\DB\ADO.NET\LINQ\Gems\Gems\obj\Debug\Gems.csproj.GenerateResource.cache
+D:\Users\Nikita\Desktop\DB\ADO.NET\LINQ\Gems\Gems\obj\Debug\Gems.csproj.CoreCompileInputs.cache
+D:\Users\Nikita\Desktop\DB\ADO.NET\LINQ\Gems\Gems\obj\Debug\Gems.csproj.CopyComplete
+D:\Users\Nikita\Desktop\DB\ADO.NET\LINQ\Gems\Gems\obj\Debug\Gems.exe
+D:\Users\Nikita\Desktop\DB\ADO.NET\LINQ\Gems\Gems\obj\Debug\Gems.pdb

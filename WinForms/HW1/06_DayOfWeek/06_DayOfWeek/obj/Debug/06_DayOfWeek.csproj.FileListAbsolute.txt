@@ -1,0 +1,10 @@
+E:\.net\HomeWork\WinForms\HW1\06_DayOfWeek\06_DayOfWeek\bin\Debug\06_DayOfWeek.exe.config
+E:\.net\HomeWork\WinForms\HW1\06_DayOfWeek\06_DayOfWeek\bin\Debug\06_DayOfWeek.exe
+E:\.net\HomeWork\WinForms\HW1\06_DayOfWeek\06_DayOfWeek\bin\Debug\06_DayOfWeek.pdb
+E:\.net\HomeWork\WinForms\HW1\06_DayOfWeek\06_DayOfWeek\obj\Debug\06_DayOfWeek.csprojAssemblyReference.cache
+E:\.net\HomeWork\WinForms\HW1\06_DayOfWeek\06_DayOfWeek\obj\Debug\_06_DayOfWeek.MainForm.resources
+E:\.net\HomeWork\WinForms\HW1\06_DayOfWeek\06_DayOfWeek\obj\Debug\_06_DayOfWeek.Properties.Resources.resources
+E:\.net\HomeWork\WinForms\HW1\06_DayOfWeek\06_DayOfWeek\obj\Debug\06_DayOfWeek.csproj.GenerateResource.cache
+E:\.net\HomeWork\WinForms\HW1\06_DayOfWeek\06_DayOfWeek\obj\Debug\06_DayOfWeek.csproj.CoreCompileInputs.cache
+E:\.net\HomeWork\WinForms\HW1\06_DayOfWeek\06_DayOfWeek\obj\Debug\06_DayOfWeek.exe
+E:\.net\HomeWork\WinForms\HW1\06_DayOfWeek\06_DayOfWeek\obj\Debug\06_DayOfWeek.pdb

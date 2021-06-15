@@ -1,0 +1,10 @@
+E:\.net\HomeWork\WinForms\HW5\03_RichTextBox\03_RichTextBox\bin\Debug\03_RichTextBox.exe.config
+E:\.net\HomeWork\WinForms\HW5\03_RichTextBox\03_RichTextBox\bin\Debug\03_RichTextBox.exe
+E:\.net\HomeWork\WinForms\HW5\03_RichTextBox\03_RichTextBox\bin\Debug\03_RichTextBox.pdb
+E:\.net\HomeWork\WinForms\HW5\03_RichTextBox\03_RichTextBox\obj\Debug\03_RichTextBox.csprojAssemblyReference.cache
+E:\.net\HomeWork\WinForms\HW5\03_RichTextBox\03_RichTextBox\obj\Debug\_03_RichTextBox.MainForm.resources
+E:\.net\HomeWork\WinForms\HW5\03_RichTextBox\03_RichTextBox\obj\Debug\_03_RichTextBox.Properties.Resources.resources
+E:\.net\HomeWork\WinForms\HW5\03_RichTextBox\03_RichTextBox\obj\Debug\03_RichTextBox.csproj.GenerateResource.cache
+E:\.net\HomeWork\WinForms\HW5\03_RichTextBox\03_RichTextBox\obj\Debug\03_RichTextBox.csproj.CoreCompileInputs.cache
+E:\.net\HomeWork\WinForms\HW5\03_RichTextBox\03_RichTextBox\obj\Debug\03_RichTextBox.exe
+E:\.net\HomeWork\WinForms\HW5\03_RichTextBox\03_RichTextBox\obj\Debug\03_RichTextBox.pdb

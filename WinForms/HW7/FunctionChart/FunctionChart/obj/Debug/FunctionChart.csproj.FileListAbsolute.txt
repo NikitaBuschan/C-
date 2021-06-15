@@ -1,0 +1,10 @@
+E:\.net\HomeWork\WinForms\HW7\FunctionChart\FunctionChart\bin\Debug\FunctionChart.exe.config
+E:\.net\HomeWork\WinForms\HW7\FunctionChart\FunctionChart\bin\Debug\FunctionChart.exe
+E:\.net\HomeWork\WinForms\HW7\FunctionChart\FunctionChart\bin\Debug\FunctionChart.pdb
+E:\.net\HomeWork\WinForms\HW7\FunctionChart\FunctionChart\obj\Debug\FunctionChart.csprojAssemblyReference.cache
+E:\.net\HomeWork\WinForms\HW7\FunctionChart\FunctionChart\obj\Debug\FunctionChart.FunctionChartView.resources
+E:\.net\HomeWork\WinForms\HW7\FunctionChart\FunctionChart\obj\Debug\FunctionChart.Properties.Resources.resources
+E:\.net\HomeWork\WinForms\HW7\FunctionChart\FunctionChart\obj\Debug\FunctionChart.csproj.GenerateResource.cache
+E:\.net\HomeWork\WinForms\HW7\FunctionChart\FunctionChart\obj\Debug\FunctionChart.csproj.CoreCompileInputs.cache
+E:\.net\HomeWork\WinForms\HW7\FunctionChart\FunctionChart\obj\Debug\FunctionChart.exe
+E:\.net\HomeWork\WinForms\HW7\FunctionChart\FunctionChart\obj\Debug\FunctionChart.pdb

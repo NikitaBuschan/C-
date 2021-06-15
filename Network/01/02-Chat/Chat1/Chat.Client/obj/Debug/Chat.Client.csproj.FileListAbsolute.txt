@@ -1,0 +1,5 @@
+E:\.net\HomeWork\Network\01\02-Chat\Chat\Chat.Client\obj\Debug\Chat.Client.Login.resources
+E:\.net\HomeWork\Network\01\02-Chat\Chat\Chat.Client\obj\Debug\Chat.Client.Main.resources
+E:\.net\HomeWork\Network\01\02-Chat\Chat\Chat.Client\obj\Debug\Chat.Client.Properties.Resources.resources
+E:\.net\HomeWork\Network\01\02-Chat\Chat\Chat.Client\obj\Debug\Chat.Client.csproj.GenerateResource.cache
+E:\.net\HomeWork\Network\01\02-Chat\Chat\Chat.Client\obj\Debug\Chat.Client.csproj.CoreCompileInputs.cache

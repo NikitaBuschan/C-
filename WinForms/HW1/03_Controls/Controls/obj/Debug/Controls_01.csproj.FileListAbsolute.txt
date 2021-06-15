@@ -1,0 +1,10 @@
+E:\.net\HomeWork\WinForms\HW1\03_Controls\Controls\obj\Debug\Controls_01.csprojAssemblyReference.cache
+E:\.net\HomeWork\WinForms\HW1\03_Controls\Controls\obj\Debug\Controls.MainForms.resources
+E:\.net\HomeWork\WinForms\HW1\03_Controls\Controls\obj\Debug\Controls.Properties.Resources.resources
+E:\.net\HomeWork\WinForms\HW1\03_Controls\Controls\obj\Debug\Controls_01.csproj.GenerateResource.cache
+E:\.net\HomeWork\WinForms\HW1\03_Controls\Controls\obj\Debug\Controls_01.csproj.CoreCompileInputs.cache
+E:\.net\HomeWork\WinForms\HW1\03_Controls\Controls\bin\Debug\Controls.exe.config
+E:\.net\HomeWork\WinForms\HW1\03_Controls\Controls\bin\Debug\Controls.exe
+E:\.net\HomeWork\WinForms\HW1\03_Controls\Controls\bin\Debug\Controls.pdb
+E:\.net\HomeWork\WinForms\HW1\03_Controls\Controls\obj\Debug\Controls.exe
+E:\.net\HomeWork\WinForms\HW1\03_Controls\Controls\obj\Debug\Controls.pdb

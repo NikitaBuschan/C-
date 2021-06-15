@@ -1,0 +1,13 @@
+E:\.net\HomeWork\System\Register\SaveAndRead\SaveAndRead\bin\Debug\netcoreapp3.1\SaveAndRead.exe
+E:\.net\HomeWork\System\Register\SaveAndRead\SaveAndRead\obj\Debug\netcoreapp3.1\SaveAndRead.csprojAssemblyReference.cache
+E:\.net\HomeWork\System\Register\SaveAndRead\SaveAndRead\obj\Debug\netcoreapp3.1\SaveAndRead.AssemblyInfoInputs.cache
+E:\.net\HomeWork\System\Register\SaveAndRead\SaveAndRead\obj\Debug\netcoreapp3.1\SaveAndRead.AssemblyInfo.cs
+E:\.net\HomeWork\System\Register\SaveAndRead\SaveAndRead\bin\Debug\netcoreapp3.1\SaveAndRead.deps.json
+E:\.net\HomeWork\System\Register\SaveAndRead\SaveAndRead\bin\Debug\netcoreapp3.1\SaveAndRead.runtimeconfig.json
+E:\.net\HomeWork\System\Register\SaveAndRead\SaveAndRead\bin\Debug\netcoreapp3.1\SaveAndRead.runtimeconfig.dev.json
+E:\.net\HomeWork\System\Register\SaveAndRead\SaveAndRead\bin\Debug\netcoreapp3.1\SaveAndRead.dll
+E:\.net\HomeWork\System\Register\SaveAndRead\SaveAndRead\bin\Debug\netcoreapp3.1\SaveAndRead.pdb
+E:\.net\HomeWork\System\Register\SaveAndRead\SaveAndRead\obj\Debug\netcoreapp3.1\SaveAndRead.csproj.CoreCompileInputs.cache
+E:\.net\HomeWork\System\Register\SaveAndRead\SaveAndRead\obj\Debug\netcoreapp3.1\SaveAndRead.dll
+E:\.net\HomeWork\System\Register\SaveAndRead\SaveAndRead\obj\Debug\netcoreapp3.1\SaveAndRead.pdb
+E:\.net\HomeWork\System\Register\SaveAndRead\SaveAndRead\obj\Debug\netcoreapp3.1\SaveAndRead.genruntimeconfig.cache

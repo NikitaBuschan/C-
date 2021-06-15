@@ -1,0 +1,11 @@
+D:\.net\HomeWork\WinForms\Test\MVPTestThree\obj\Debug\MVPTest3.csprojAssemblyReference.cache
+D:\.net\HomeWork\WinForms\Test\MVPTestThree\obj\Debug\MVPTestThree.View.ViewAdd.resources
+D:\.net\HomeWork\WinForms\Test\MVPTestThree\obj\Debug\MVPTestThree.View.ViewEditForm.resources
+D:\.net\HomeWork\WinForms\Test\MVPTestThree\obj\Debug\MVPTestThree.Properties.Resources.resources
+D:\.net\HomeWork\WinForms\Test\MVPTestThree\obj\Debug\MVPTest3.csproj.GenerateResource.cache
+D:\.net\HomeWork\WinForms\Test\MVPTestThree\bin\Debug\MVPTestThree.exe.config
+D:\.net\HomeWork\WinForms\Test\MVPTestThree\bin\Debug\MVPTestThree.exe
+D:\.net\HomeWork\WinForms\Test\MVPTestThree\bin\Debug\MVPTestThree.pdb
+D:\.net\HomeWork\WinForms\Test\MVPTestThree\obj\Debug\MVPTestThree.exe
+D:\.net\HomeWork\WinForms\Test\MVPTestThree\obj\Debug\MVPTestThree.pdb
+D:\.net\HomeWork\WinForms\Test\MVPTestThree\obj\Debug\MVPTestThree.ViewMainForm.resources

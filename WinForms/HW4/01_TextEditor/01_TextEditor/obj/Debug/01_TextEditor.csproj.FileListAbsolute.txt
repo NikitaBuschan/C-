@@ -1,0 +1,10 @@
+E:\.net\HomeWork\WinForms\HW4\01_TextEditor\01_TextEditor\bin\Debug\01_TextEditor.exe.config
+E:\.net\HomeWork\WinForms\HW4\01_TextEditor\01_TextEditor\bin\Debug\01_TextEditor.exe
+E:\.net\HomeWork\WinForms\HW4\01_TextEditor\01_TextEditor\bin\Debug\01_TextEditor.pdb
+E:\.net\HomeWork\WinForms\HW4\01_TextEditor\01_TextEditor\obj\Debug\01_TextEditor.csprojAssemblyReference.cache
+E:\.net\HomeWork\WinForms\HW4\01_TextEditor\01_TextEditor\obj\Debug\_01_TextEditor.MainForm.resources
+E:\.net\HomeWork\WinForms\HW4\01_TextEditor\01_TextEditor\obj\Debug\_01_TextEditor.Properties.Resources.resources
+E:\.net\HomeWork\WinForms\HW4\01_TextEditor\01_TextEditor\obj\Debug\01_TextEditor.csproj.GenerateResource.cache
+E:\.net\HomeWork\WinForms\HW4\01_TextEditor\01_TextEditor\obj\Debug\01_TextEditor.csproj.CoreCompileInputs.cache
+E:\.net\HomeWork\WinForms\HW4\01_TextEditor\01_TextEditor\obj\Debug\01_TextEditor.exe
+E:\.net\HomeWork\WinForms\HW4\01_TextEditor\01_TextEditor\obj\Debug\01_TextEditor.pdb

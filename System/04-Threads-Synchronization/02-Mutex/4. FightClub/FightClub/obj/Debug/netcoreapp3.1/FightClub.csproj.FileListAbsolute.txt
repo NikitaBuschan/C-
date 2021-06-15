@@ -1,0 +1,13 @@
+E:\.net\HomeWork\System\04-Threads-Synchronization\4. FightClub\FightClub\bin\Debug\netcoreapp3.1\FightClub.exe
+E:\.net\HomeWork\System\04-Threads-Synchronization\4. FightClub\FightClub\bin\Debug\netcoreapp3.1\FightClub.deps.json
+E:\.net\HomeWork\System\04-Threads-Synchronization\4. FightClub\FightClub\bin\Debug\netcoreapp3.1\FightClub.runtimeconfig.json
+E:\.net\HomeWork\System\04-Threads-Synchronization\4. FightClub\FightClub\bin\Debug\netcoreapp3.1\FightClub.runtimeconfig.dev.json
+E:\.net\HomeWork\System\04-Threads-Synchronization\4. FightClub\FightClub\bin\Debug\netcoreapp3.1\FightClub.dll
+E:\.net\HomeWork\System\04-Threads-Synchronization\4. FightClub\FightClub\bin\Debug\netcoreapp3.1\FightClub.pdb
+E:\.net\HomeWork\System\04-Threads-Synchronization\4. FightClub\FightClub\obj\Debug\netcoreapp3.1\FightClub.csprojAssemblyReference.cache
+E:\.net\HomeWork\System\04-Threads-Synchronization\4. FightClub\FightClub\obj\Debug\netcoreapp3.1\FightClub.AssemblyInfoInputs.cache
+E:\.net\HomeWork\System\04-Threads-Synchronization\4. FightClub\FightClub\obj\Debug\netcoreapp3.1\FightClub.AssemblyInfo.cs
+E:\.net\HomeWork\System\04-Threads-Synchronization\4. FightClub\FightClub\obj\Debug\netcoreapp3.1\FightClub.csproj.CoreCompileInputs.cache
+E:\.net\HomeWork\System\04-Threads-Synchronization\4. FightClub\FightClub\obj\Debug\netcoreapp3.1\FightClub.dll
+E:\.net\HomeWork\System\04-Threads-Synchronization\4. FightClub\FightClub\obj\Debug\netcoreapp3.1\FightClub.pdb
+E:\.net\HomeWork\System\04-Threads-Synchronization\4. FightClub\FightClub\obj\Debug\netcoreapp3.1\FightClub.genruntimeconfig.cache

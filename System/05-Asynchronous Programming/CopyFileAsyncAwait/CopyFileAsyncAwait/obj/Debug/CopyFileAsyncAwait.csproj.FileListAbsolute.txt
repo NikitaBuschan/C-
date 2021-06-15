@@ -1,0 +1,10 @@
+E:\.net\HomeWork\System\05-Asynchronous Programming\CopyFileAsyncAwait\CopyFileAsyncAwait\bin\Debug\CopyFileAsyncAwait.exe.config
+E:\.net\HomeWork\System\05-Asynchronous Programming\CopyFileAsyncAwait\CopyFileAsyncAwait\bin\Debug\CopyFileAsyncAwait.exe
+E:\.net\HomeWork\System\05-Asynchronous Programming\CopyFileAsyncAwait\CopyFileAsyncAwait\bin\Debug\CopyFileAsyncAwait.pdb
+E:\.net\HomeWork\System\05-Asynchronous Programming\CopyFileAsyncAwait\CopyFileAsyncAwait\obj\Debug\CopyFileAsyncAwait.csprojAssemblyReference.cache
+E:\.net\HomeWork\System\05-Asynchronous Programming\CopyFileAsyncAwait\CopyFileAsyncAwait\obj\Debug\CopyFileAsyncAwait.CopyFileAsyncAwait.resources
+E:\.net\HomeWork\System\05-Asynchronous Programming\CopyFileAsyncAwait\CopyFileAsyncAwait\obj\Debug\CopyFileAsyncAwait.Properties.Resources.resources
+E:\.net\HomeWork\System\05-Asynchronous Programming\CopyFileAsyncAwait\CopyFileAsyncAwait\obj\Debug\CopyFileAsyncAwait.csproj.GenerateResource.cache
+E:\.net\HomeWork\System\05-Asynchronous Programming\CopyFileAsyncAwait\CopyFileAsyncAwait\obj\Debug\CopyFileAsyncAwait.csproj.CoreCompileInputs.cache
+E:\.net\HomeWork\System\05-Asynchronous Programming\CopyFileAsyncAwait\CopyFileAsyncAwait\obj\Debug\CopyFileAsyncAwait.exe
+E:\.net\HomeWork\System\05-Asynchronous Programming\CopyFileAsyncAwait\CopyFileAsyncAwait\obj\Debug\CopyFileAsyncAwait.pdb

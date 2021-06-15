@@ -1,0 +1,10 @@
+E:\.net\HomeWork\WinForms\HW1\05_MouseRun\MouseRun\bin\Debug\MouseRun.exe.config
+E:\.net\HomeWork\WinForms\HW1\05_MouseRun\MouseRun\bin\Debug\MouseRun.exe
+E:\.net\HomeWork\WinForms\HW1\05_MouseRun\MouseRun\bin\Debug\MouseRun.pdb
+E:\.net\HomeWork\WinForms\HW1\05_MouseRun\MouseRun\obj\Debug\MouseRun.csprojAssemblyReference.cache
+E:\.net\HomeWork\WinForms\HW1\05_MouseRun\MouseRun\obj\Debug\MouseRun.MainForm.resources
+E:\.net\HomeWork\WinForms\HW1\05_MouseRun\MouseRun\obj\Debug\MouseRun.Properties.Resources.resources
+E:\.net\HomeWork\WinForms\HW1\05_MouseRun\MouseRun\obj\Debug\MouseRun.csproj.GenerateResource.cache
+E:\.net\HomeWork\WinForms\HW1\05_MouseRun\MouseRun\obj\Debug\MouseRun.csproj.CoreCompileInputs.cache
+E:\.net\HomeWork\WinForms\HW1\05_MouseRun\MouseRun\obj\Debug\MouseRun.exe
+E:\.net\HomeWork\WinForms\HW1\05_MouseRun\MouseRun\obj\Debug\MouseRun.pdb

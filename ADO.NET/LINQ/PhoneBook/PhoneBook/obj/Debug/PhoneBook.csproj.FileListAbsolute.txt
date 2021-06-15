@@ -1,0 +1,17 @@
+D:\Users\Nikita\Desktop\DB\ADO.NET\LINQ\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+D:\Users\Nikita\Desktop\DB\ADO.NET\LINQ\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+D:\Users\Nikita\Desktop\DB\ADO.NET\LINQ\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+D:\Users\Nikita\Desktop\DB\ADO.NET\LINQ\PhoneBook\PhoneBook\bin\Debug\EntityFramework.dll
+D:\Users\Nikita\Desktop\DB\ADO.NET\LINQ\PhoneBook\PhoneBook\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\Nikita\Desktop\DB\ADO.NET\LINQ\PhoneBook\PhoneBook\bin\Debug\EntityFramework.xml
+D:\Users\Nikita\Desktop\DB\ADO.NET\LINQ\PhoneBook\PhoneBook\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\Nikita\Desktop\DB\ADO.NET\LINQ\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojAssemblyReference.cache
+D:\Users\Nikita\Desktop\DB\ADO.NET\LINQ\PhoneBook\PhoneBook\obj\Debug\PhoneBook.PhoneBookView.resources
+D:\Users\Nikita\Desktop\DB\ADO.NET\LINQ\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+D:\Users\Nikita\Desktop\DB\ADO.NET\LINQ\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.cache
+D:\Users\Nikita\Desktop\DB\ADO.NET\LINQ\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+D:\Users\Nikita\Desktop\DB\ADO.NET\LINQ\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CopyComplete
+D:\Users\Nikita\Desktop\DB\ADO.NET\LINQ\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+D:\Users\Nikita\Desktop\DB\ADO.NET\LINQ\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+D:\Users\Nikita\Desktop\DB\ADO.NET\LINQ\PhoneBook\PhoneBook\obj\Debug\PhoneBook.View.EditView.resources
+D:\Users\Nikita\Desktop\DB\ADO.NET\LINQ\PhoneBook\PhoneBook\obj\Debug\PhoneBook.View.AddView.resources

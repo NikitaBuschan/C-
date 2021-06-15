@@ -1,0 +1,16 @@
+D:\CPP-CSharp\HomeWork\C#\PhoneBook\PhoneBookTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\CPP-CSharp\HomeWork\C#\PhoneBook\PhoneBookTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\CPP-CSharp\HomeWork\C#\PhoneBook\PhoneBookTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\CPP-CSharp\HomeWork\C#\PhoneBook\PhoneBookTests\bin\Debug\PhoneBookTests.dll
+D:\CPP-CSharp\HomeWork\C#\PhoneBook\PhoneBookTests\bin\Debug\PhoneBookTests.pdb
+D:\CPP-CSharp\HomeWork\C#\PhoneBook\PhoneBookTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\CPP-CSharp\HomeWork\C#\PhoneBook\PhoneBookTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\CPP-CSharp\HomeWork\C#\PhoneBook\PhoneBookTests\bin\Debug\PhoneBook.exe
+D:\CPP-CSharp\HomeWork\C#\PhoneBook\PhoneBookTests\bin\Debug\PhoneBook.pdb
+D:\CPP-CSharp\HomeWork\C#\PhoneBook\PhoneBookTests\bin\Debug\PhoneBook.exe.config
+D:\CPP-CSharp\HomeWork\C#\PhoneBook\PhoneBookTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\CPP-CSharp\HomeWork\C#\PhoneBook\PhoneBookTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\CPP-CSharp\HomeWork\C#\PhoneBook\PhoneBookTests\obj\Debug\PhoneBookTests.csprojAssemblyReference.cache
+D:\CPP-CSharp\HomeWork\C#\PhoneBook\PhoneBookTests\obj\Debug\PhoneBookTests.csproj.CopyComplete
+D:\CPP-CSharp\HomeWork\C#\PhoneBook\PhoneBookTests\obj\Debug\PhoneBookTests.dll
+D:\CPP-CSharp\HomeWork\C#\PhoneBook\PhoneBookTests\obj\Debug\PhoneBookTests.pdb

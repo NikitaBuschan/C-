@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29505.145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pacman", "Packman\Pacman.csproj", "{11F8F953-FA1A-4C0B-B115-61775FF96587}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pacman.Tests", "Pacman.Tests\Pacman.Tests.csproj", "{76AA319F-CA36-4D61-A70A-170BA469357D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11F8F953-FA1A-4C0B-B115-61775FF96587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11F8F953-FA1A-4C0B-B115-61775FF96587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11F8F953-FA1A-4C0B-B115-61775FF96587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11F8F953-FA1A-4C0B-B115-61775FF96587}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76AA319F-CA36-4D61-A70A-170BA469357D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76AA319F-CA36-4D61-A70A-170BA469357D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76AA319F-CA36-4D61-A70A-170BA469357D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76AA319F-CA36-4D61-A70A-170BA469357D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A255117B-D022-4EC6-8D61-672F4F4EE5E4}
+	EndGlobalSection
+EndGlobal

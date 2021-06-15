@@ -1,0 +1,4 @@
+E:\.net\HomeWork\Network\01\02-Chat\Chat\Chat.Common\obj\Debug\Chat.Common.csprojAssemblyReference.cache
+E:\.net\HomeWork\Network\01\02-Chat\Chat\Chat.Common\obj\Debug\Chat.Common.Properties.Resources.resources
+E:\.net\HomeWork\Network\01\02-Chat\Chat\Chat.Common\obj\Debug\Chat.Common.csproj.GenerateResource.cache
+E:\.net\HomeWork\Network\01\02-Chat\Chat\Chat.Common\obj\Debug\Chat.Common.csproj.CoreCompileInputs.cache

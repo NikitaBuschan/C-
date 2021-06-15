@@ -1,0 +1,12 @@
+D:\.net\HomeWork\C#\Packman\Pacman.Tests\bin\Debug\Pacman.Tests.dll
+D:\.net\HomeWork\C#\Packman\Pacman.Tests\bin\Debug\Pacman.Tests.pdb
+D:\.net\HomeWork\C#\Packman\Pacman.Tests\bin\Debug\nunit.framework.dll
+D:\.net\HomeWork\C#\Packman\Pacman.Tests\bin\Debug\Packman.exe
+D:\.net\HomeWork\C#\Packman\Pacman.Tests\bin\Debug\Packman.pdb
+D:\.net\HomeWork\C#\Packman\Pacman.Tests\bin\Debug\Packman.exe.config
+D:\.net\HomeWork\C#\Packman\Pacman.Tests\bin\Debug\nunit.framework.pdb
+D:\.net\HomeWork\C#\Packman\Pacman.Tests\bin\Debug\nunit.framework.xml
+D:\.net\HomeWork\C#\Packman\Pacman.Tests\obj\Debug\Pacman.Tests.csprojAssemblyReference.cache
+D:\.net\HomeWork\C#\Packman\Pacman.Tests\obj\Debug\Pacman.Tests.csproj.CopyComplete
+D:\.net\HomeWork\C#\Packman\Pacman.Tests\obj\Debug\Pacman.Tests.dll
+D:\.net\HomeWork\C#\Packman\Pacman.Tests\obj\Debug\Pacman.Tests.pdb

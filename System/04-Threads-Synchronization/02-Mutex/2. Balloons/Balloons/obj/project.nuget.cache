@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iHDdqpvtzgsyapEKB7ETORXgyEFVS0yRAAfU1OYtKhhBy4MKOJyRn8ym8bDGQE9bHB38t+19OLkcnweW5KUwSQ==",
+  "success": true,
+  "projectFilePath": "E:\\.net\\HomeWork\\System\\04-Threads-Synchronization\\2. Balloons\\Balloons\\Balloons.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikit\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

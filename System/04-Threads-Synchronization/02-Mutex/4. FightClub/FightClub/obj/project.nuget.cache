@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DGNkNq6CVdtEyUyd2208jTovQ/RRgelB+1HC4lGptjsFTAgGya9dmHiM75QImLMu/rzo05e7LYQ1iClEP0qKIA==",
+  "success": true,
+  "projectFilePath": "E:\\.net\\HomeWork\\System\\04-Threads-Synchronization\\4. FightClub\\FightClub\\FightClub.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikit\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

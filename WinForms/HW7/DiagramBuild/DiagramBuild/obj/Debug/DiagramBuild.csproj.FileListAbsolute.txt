@@ -1,0 +1,10 @@
+E:\.net\HomeWork\WinForms\HW7\DiagramBuild\DiagramBuild\obj\Debug\DiagramBuild.csprojAssemblyReference.cache
+E:\.net\HomeWork\WinForms\HW7\DiagramBuild\DiagramBuild\obj\Debug\DiagramBuild.DiagramBuild.resources
+E:\.net\HomeWork\WinForms\HW7\DiagramBuild\DiagramBuild\obj\Debug\DiagramBuild.Properties.Resources.resources
+E:\.net\HomeWork\WinForms\HW7\DiagramBuild\DiagramBuild\obj\Debug\DiagramBuild.csproj.GenerateResource.cache
+E:\.net\HomeWork\WinForms\HW7\DiagramBuild\DiagramBuild\obj\Debug\DiagramBuild.csproj.CoreCompileInputs.cache
+E:\.net\HomeWork\WinForms\HW7\DiagramBuild\DiagramBuild\bin\Debug\DiagramBuild.exe.config
+E:\.net\HomeWork\WinForms\HW7\DiagramBuild\DiagramBuild\bin\Debug\DiagramBuild.exe
+E:\.net\HomeWork\WinForms\HW7\DiagramBuild\DiagramBuild\bin\Debug\DiagramBuild.pdb
+E:\.net\HomeWork\WinForms\HW7\DiagramBuild\DiagramBuild\obj\Debug\DiagramBuild.exe
+E:\.net\HomeWork\WinForms\HW7\DiagramBuild\DiagramBuild\obj\Debug\DiagramBuild.pdb

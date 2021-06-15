@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PJSnhAJn+4/o6534cNpwlL4/BjuFbOVee08IPwOfrpUwYwZqbwUnQxFQvsZQJ2y4yo36yFtKgliWwBhfbkgWRw==",
+  "success": true,
+  "projectFilePath": "E:\\.net\\HomeWork\\Network\\01\\Clock\\Clock\\Clock.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikit\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

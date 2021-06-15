@@ -1,0 +1,13 @@
+E:\.net\HomeWork\System\Threads\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.exe
+E:\.net\HomeWork\System\Threads\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.deps.json
+E:\.net\HomeWork\System\Threads\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.runtimeconfig.json
+E:\.net\HomeWork\System\Threads\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.runtimeconfig.dev.json
+E:\.net\HomeWork\System\Threads\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.dll
+E:\.net\HomeWork\System\Threads\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.pdb
+E:\.net\HomeWork\System\Threads\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.csprojAssemblyReference.cache
+E:\.net\HomeWork\System\Threads\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.csproj.CoreCompileInputs.cache
+E:\.net\HomeWork\System\Threads\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.AssemblyInfoInputs.cache
+E:\.net\HomeWork\System\Threads\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.AssemblyInfo.cs
+E:\.net\HomeWork\System\Threads\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.dll
+E:\.net\HomeWork\System\Threads\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.pdb
+E:\.net\HomeWork\System\Threads\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.genruntimeconfig.cache

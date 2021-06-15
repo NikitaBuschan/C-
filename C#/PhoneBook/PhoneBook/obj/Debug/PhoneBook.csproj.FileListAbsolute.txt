@@ -1,0 +1,5 @@
+D:\CPP-CSharp\HomeWork\C#\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+D:\CPP-CSharp\HomeWork\C#\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+D:\CPP-CSharp\HomeWork\C#\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+D:\CPP-CSharp\HomeWork\C#\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+D:\CPP-CSharp\HomeWork\C#\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb

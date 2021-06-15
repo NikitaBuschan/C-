@@ -1,0 +1,30 @@
+E:\.net\HomeWork\System\Threads\SumOfNumbers\SumOfNumbers\bin\Debug\SumOfNumbers.exe.config
+E:\.net\HomeWork\System\Threads\SumOfNumbers\SumOfNumbers\bin\Debug\SumOfNumbers.exe
+E:\.net\HomeWork\System\Threads\SumOfNumbers\SumOfNumbers\bin\Debug\SumOfNumbers.pdb
+E:\.net\HomeWork\System\Threads\SumOfNumbers\SumOfNumbers\obj\Debug\SumOfNumbers.csprojAssemblyReference.cache
+E:\.net\HomeWork\System\Threads\SumOfNumbers\SumOfNumbers\obj\Debug\SumOfNumbers.MyThread.resources
+E:\.net\HomeWork\System\Threads\SumOfNumbers\SumOfNumbers\obj\Debug\SumOfNumbers.Properties.Resources.resources
+E:\.net\HomeWork\System\Threads\SumOfNumbers\SumOfNumbers\obj\Debug\SumOfNumbers.csproj.GenerateResource.cache
+E:\.net\HomeWork\System\Threads\SumOfNumbers\SumOfNumbers\obj\Debug\SumOfNumbers.csproj.CoreCompileInputs.cache
+E:\.net\HomeWork\System\Threads\SumOfNumbers\SumOfNumbers\obj\Debug\SumOfNumbers.exe
+E:\.net\HomeWork\System\Threads\SumOfNumbers\SumOfNumbers\obj\Debug\SumOfNumbers.pdb
+E:\.net\HomeWork\System\Threads\2. SumOfNumbers\SumOfNumbers\obj\Debug\SumOfNumbers.csprojAssemblyReference.cache
+E:\.net\HomeWork\System\Threads\2. SumOfNumbers\SumOfNumbers\obj\Debug\SumOfNumbers.Properties.Resources.resources
+E:\.net\HomeWork\System\Threads\2. SumOfNumbers\SumOfNumbers\obj\Debug\SumOfNumbers.csproj.GenerateResource.cache
+E:\.net\HomeWork\System\Threads\2. SumOfNumbers\SumOfNumbers\obj\Debug\SumOfNumbers.csproj.CoreCompileInputs.cache
+E:\.net\HomeWork\System\Threads\2. SumOfNumbers\SumOfNumbers\obj\Debug\SumOfNumbers.exe
+E:\.net\HomeWork\System\Threads\2. SumOfNumbers\SumOfNumbers\obj\Debug\SumOfNumbers.pdb
+E:\.net\HomeWork\System\Threads\2. SumOfNumbers\SumOfNumbers\bin\Debug\SumOfNumbers.exe.config
+E:\.net\HomeWork\System\Threads\2. SumOfNumbers\SumOfNumbers\bin\Debug\SumOfNumbers.exe
+E:\.net\HomeWork\System\Threads\2. SumOfNumbers\SumOfNumbers\bin\Debug\SumOfNumbers.pdb
+E:\.net\HomeWork\System\Threads\2. SumOfNumbers\SumOfNumbers\obj\Debug\sumOfNumbers.View.SumOfNumbersView.resources
+E:\.net\HomeWork\System\03-Threads\2. SumOfNumbers\SumOfNumbers\bin\Debug\SumOfNumbers.exe.config
+E:\.net\HomeWork\System\03-Threads\2. SumOfNumbers\SumOfNumbers\bin\Debug\SumOfNumbers.exe
+E:\.net\HomeWork\System\03-Threads\2. SumOfNumbers\SumOfNumbers\bin\Debug\SumOfNumbers.pdb
+E:\.net\HomeWork\System\03-Threads\2. SumOfNumbers\SumOfNumbers\obj\Debug\SumOfNumbers.csprojAssemblyReference.cache
+E:\.net\HomeWork\System\03-Threads\2. SumOfNumbers\SumOfNumbers\obj\Debug\SumOfNumbers.Properties.Resources.resources
+E:\.net\HomeWork\System\03-Threads\2. SumOfNumbers\SumOfNumbers\obj\Debug\sumOfNumbers.View.SumOfNumbersView.resources
+E:\.net\HomeWork\System\03-Threads\2. SumOfNumbers\SumOfNumbers\obj\Debug\SumOfNumbers.csproj.GenerateResource.cache
+E:\.net\HomeWork\System\03-Threads\2. SumOfNumbers\SumOfNumbers\obj\Debug\SumOfNumbers.csproj.CoreCompileInputs.cache
+E:\.net\HomeWork\System\03-Threads\2. SumOfNumbers\SumOfNumbers\obj\Debug\SumOfNumbers.exe
+E:\.net\HomeWork\System\03-Threads\2. SumOfNumbers\SumOfNumbers\obj\Debug\SumOfNumbers.pdb

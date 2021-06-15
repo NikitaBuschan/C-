@@ -1,0 +1,10 @@
+E:\.net\HomeWork\System\04-Threads-Synchronization\03-Semaphore\SemaphoreApp\SemaphoreApp\bin\Debug\SemaphoreApp.exe.config
+E:\.net\HomeWork\System\04-Threads-Synchronization\03-Semaphore\SemaphoreApp\SemaphoreApp\bin\Debug\SemaphoreApp.exe
+E:\.net\HomeWork\System\04-Threads-Synchronization\03-Semaphore\SemaphoreApp\SemaphoreApp\bin\Debug\SemaphoreApp.pdb
+E:\.net\HomeWork\System\04-Threads-Synchronization\03-Semaphore\SemaphoreApp\SemaphoreApp\obj\Debug\SemaphoreApp.csprojAssemblyReference.cache
+E:\.net\HomeWork\System\04-Threads-Synchronization\03-Semaphore\SemaphoreApp\SemaphoreApp\obj\Debug\SemaphoreApp.SemaphoreView.resources
+E:\.net\HomeWork\System\04-Threads-Synchronization\03-Semaphore\SemaphoreApp\SemaphoreApp\obj\Debug\SemaphoreApp.Properties.Resources.resources
+E:\.net\HomeWork\System\04-Threads-Synchronization\03-Semaphore\SemaphoreApp\SemaphoreApp\obj\Debug\SemaphoreApp.csproj.GenerateResource.cache
+E:\.net\HomeWork\System\04-Threads-Synchronization\03-Semaphore\SemaphoreApp\SemaphoreApp\obj\Debug\SemaphoreApp.csproj.CoreCompileInputs.cache
+E:\.net\HomeWork\System\04-Threads-Synchronization\03-Semaphore\SemaphoreApp\SemaphoreApp\obj\Debug\SemaphoreApp.exe
+E:\.net\HomeWork\System\04-Threads-Synchronization\03-Semaphore\SemaphoreApp\SemaphoreApp\obj\Debug\SemaphoreApp.pdb

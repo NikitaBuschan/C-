@@ -1,0 +1,13 @@
+E:\.net\HomeWork\System\04-Threads-Synchronization\VinPuhWithBess\VinPuhWithBess\bin\Debug\netcoreapp3.1\VinPuhWithBess.exe
+E:\.net\HomeWork\System\04-Threads-Synchronization\VinPuhWithBess\VinPuhWithBess\bin\Debug\netcoreapp3.1\VinPuhWithBess.deps.json
+E:\.net\HomeWork\System\04-Threads-Synchronization\VinPuhWithBess\VinPuhWithBess\bin\Debug\netcoreapp3.1\VinPuhWithBess.runtimeconfig.json
+E:\.net\HomeWork\System\04-Threads-Synchronization\VinPuhWithBess\VinPuhWithBess\bin\Debug\netcoreapp3.1\VinPuhWithBess.runtimeconfig.dev.json
+E:\.net\HomeWork\System\04-Threads-Synchronization\VinPuhWithBess\VinPuhWithBess\bin\Debug\netcoreapp3.1\VinPuhWithBess.dll
+E:\.net\HomeWork\System\04-Threads-Synchronization\VinPuhWithBess\VinPuhWithBess\bin\Debug\netcoreapp3.1\VinPuhWithBess.pdb
+E:\.net\HomeWork\System\04-Threads-Synchronization\VinPuhWithBess\VinPuhWithBess\obj\Debug\netcoreapp3.1\VinPuhWithBess.csprojAssemblyReference.cache
+E:\.net\HomeWork\System\04-Threads-Synchronization\VinPuhWithBess\VinPuhWithBess\obj\Debug\netcoreapp3.1\VinPuhWithBess.csproj.CoreCompileInputs.cache
+E:\.net\HomeWork\System\04-Threads-Synchronization\VinPuhWithBess\VinPuhWithBess\obj\Debug\netcoreapp3.1\VinPuhWithBess.AssemblyInfoInputs.cache
+E:\.net\HomeWork\System\04-Threads-Synchronization\VinPuhWithBess\VinPuhWithBess\obj\Debug\netcoreapp3.1\VinPuhWithBess.AssemblyInfo.cs
+E:\.net\HomeWork\System\04-Threads-Synchronization\VinPuhWithBess\VinPuhWithBess\obj\Debug\netcoreapp3.1\VinPuhWithBess.dll
+E:\.net\HomeWork\System\04-Threads-Synchronization\VinPuhWithBess\VinPuhWithBess\obj\Debug\netcoreapp3.1\VinPuhWithBess.pdb
+E:\.net\HomeWork\System\04-Threads-Synchronization\VinPuhWithBess\VinPuhWithBess\obj\Debug\netcoreapp3.1\VinPuhWithBess.genruntimeconfig.cache

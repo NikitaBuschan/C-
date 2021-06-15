@@ -1,0 +1,11 @@
+E:\.net\HomeWork\WinForms\HW3\03_Editor\03_Editor\bin\Debug\03_Editor.exe.config
+E:\.net\HomeWork\WinForms\HW3\03_Editor\03_Editor\bin\Debug\03_Editor.exe
+E:\.net\HomeWork\WinForms\HW3\03_Editor\03_Editor\bin\Debug\03_Editor.pdb
+E:\.net\HomeWork\WinForms\HW3\03_Editor\03_Editor\obj\Debug\03_Editor.csprojAssemblyReference.cache
+E:\.net\HomeWork\WinForms\HW3\03_Editor\03_Editor\obj\Debug\_03_Editor.Edit.resources
+E:\.net\HomeWork\WinForms\HW3\03_Editor\03_Editor\obj\Debug\_03_Editor.FormMain.resources
+E:\.net\HomeWork\WinForms\HW3\03_Editor\03_Editor\obj\Debug\_03_Editor.Properties.Resources.resources
+E:\.net\HomeWork\WinForms\HW3\03_Editor\03_Editor\obj\Debug\03_Editor.csproj.GenerateResource.cache
+E:\.net\HomeWork\WinForms\HW3\03_Editor\03_Editor\obj\Debug\03_Editor.csproj.CoreCompileInputs.cache
+E:\.net\HomeWork\WinForms\HW3\03_Editor\03_Editor\obj\Debug\03_Editor.exe
+E:\.net\HomeWork\WinForms\HW3\03_Editor\03_Editor\obj\Debug\03_Editor.pdb

@@ -1,0 +1,11 @@
+E:\.net\HomeWork\System\Threads\3. WindowWithButton\WindowWithButton\WindowWithButton\bin\Debug\WindowWithButton.exe.config
+E:\.net\HomeWork\System\Threads\3. WindowWithButton\WindowWithButton\WindowWithButton\bin\Debug\WindowWithButton.exe
+E:\.net\HomeWork\System\Threads\3. WindowWithButton\WindowWithButton\WindowWithButton\bin\Debug\WindowWithButton.pdb
+E:\.net\HomeWork\System\Threads\3. WindowWithButton\WindowWithButton\WindowWithButton\obj\Debug\WindowWithButton.csprojAssemblyReference.cache
+E:\.net\HomeWork\System\Threads\3. WindowWithButton\WindowWithButton\WindowWithButton\obj\Debug\WindowWithButton.Properties.Resources.resources
+E:\.net\HomeWork\System\Threads\3. WindowWithButton\WindowWithButton\WindowWithButton\obj\Debug\WindowWithButton.WindowWIthButtonView.resources
+E:\.net\HomeWork\System\Threads\3. WindowWithButton\WindowWithButton\WindowWithButton\obj\Debug\WindowWithButton.csproj.GenerateResource.cache
+E:\.net\HomeWork\System\Threads\3. WindowWithButton\WindowWithButton\WindowWithButton\obj\Debug\WindowWithButton.csproj.CoreCompileInputs.cache
+E:\.net\HomeWork\System\Threads\3. WindowWithButton\WindowWithButton\WindowWithButton\obj\Debug\WindowWithButton.exe
+E:\.net\HomeWork\System\Threads\3. WindowWithButton\WindowWithButton\WindowWithButton\obj\Debug\WindowWithButton.pdb
+E:\.net\HomeWork\System\Threads\3. WindowWithButton\WindowWithButton\WindowWithButton\obj\Debug\WindowWithButton.View.NonModalWindowView.resources
