@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = ViewBag.product.Name;
+}
+
+<link href="~/css/product.css" rel="stylesheet" />
+
+<div class="block">
+    <div class="product">
+        <h3>@ViewBag.product.Name</h3>
+        <div class="img-block">
+            <img src="@ViewBag.product.Image" alt="Alternate Text" />
+        </div>
+        <p>@ViewBag.product.FullInfo</p>
+        <b>Цена: @ViewBag.product.Cost грн.</b>
+    </div>
+</div>

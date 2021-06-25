@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a120aKfJ2IM0OPBjiAEXvRWn9f4fUgsk57m+I6hgyAtwcnE/bkc43AcDoq9WDEQ6nAzzTVY/XYyYWPx6Uo/jHQ==",
+  "success": true,
+  "projectFilePath": "E:\\web\\02-Backend\\ASP.NET\\04-Products(Model)\\04-Products(Model)\\04-Products(Model).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikit\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

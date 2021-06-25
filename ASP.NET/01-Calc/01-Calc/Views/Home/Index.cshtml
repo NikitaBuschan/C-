@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Calculator";
+}
+
+<form method="post" action="~/Home/Calc">
+    <input type="text" name="a" value="" />
+    <select style="width: 50px;" name="operation">
+        <option selected value="+">+</option>
+        <option value="-">-</option>
+        <option value="/">/</option>
+        <option value="*">*</option>
+    </select>
+    <input type="text" name="b" value="" />
+    <input type="submit" name="submit" value="calc" />
+</form>

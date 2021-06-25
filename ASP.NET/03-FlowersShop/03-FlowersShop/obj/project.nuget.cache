@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x8VZleEDnLCd4NNwjCYTLM/h+gTgaZhbLtIqxoAiTyhmPqdWz6q+4Qyq+cagf2CddS1lh1j2oJg0osittWNaYg==",
+  "success": true,
+  "projectFilePath": "E:\\web\\02-Backend\\ASP.NET\\03-FlowersShop\\03-FlowersShop\\03-FlowersShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikit\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

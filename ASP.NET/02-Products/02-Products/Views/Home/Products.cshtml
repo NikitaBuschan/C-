@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "Products";
+}
+
+<link href="~/css/products.css" rel="stylesheet" />
+
+<div class="block">
+    @foreach (var item in ViewBag.products)
+    {
+        <div class="product">
+            <a href="~/Home/Product?id=@item.Id" class="product-name"><h3>@item.Name</h3></a>
+            <div class="img-block">
+                <a href="~/Home/Product?id=@item.Id"><img src="@item.Image" alt="Alternate Text" /></a>
+            </div>
+            <p>@item.Info</p>
+            <b>Цена: @item.Cost грн.</b>
+        </div>
+    }
+</div>
