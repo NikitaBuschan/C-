@@ -252,11 +252,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\.net\\HomeWork\\System\\Register\\SaveAndRead\\SaveAndRead\\SaveAndRead.csproj",
+      "projectUniqueName": "E:\\C-Sharp\\System\\01-Registry\\SaveAndRead\\SaveAndRead\\SaveAndRead.csproj",
       "projectName": "SaveAndRead",
-      "projectPath": "E:\\.net\\HomeWork\\System\\Register\\SaveAndRead\\SaveAndRead\\SaveAndRead.csproj",
+      "projectPath": "E:\\C-Sharp\\System\\01-Registry\\SaveAndRead\\SaveAndRead\\SaveAndRead.csproj",
       "packagesPath": "C:\\Users\\nikit\\.nuget\\packages\\",
-      "outputPath": "E:\\.net\\HomeWork\\System\\Register\\SaveAndRead\\SaveAndRead\\obj\\",
+      "outputPath": "E:\\C-Sharp\\System\\01-Registry\\SaveAndRead\\SaveAndRead\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -302,12 +302,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.2, 3.1.2]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,21 @@
+﻿.list ul {
+    border: 1px solid black;
+    margin-bottom: 10px;
+}
+
+.list li {
+    padding: 10px;
+}
+
+table {
+    width: 100%;
+}
+
+    table tr {
+        flex-basis: auto auto auto auto;
+    }
+
+    table th, td {
+        padding: 5px;
+        border: 1px solid black;
+    }

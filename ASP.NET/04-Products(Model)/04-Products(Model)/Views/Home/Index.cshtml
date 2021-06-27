@@ -1,8 +1,33 @@
-﻿@{
+﻿@using _04_Products_Model_.Models
+@model List<Product>
+
+<link href="~/css/Home.css" rel="stylesheet" />
+
+@{
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<h3>List:</h3>
+<div class="list">
+    @foreach (var item in @Model)
+    {
+        @item.CreateList();
+    }
 </div>
+
+<h3>Table:</h3>
+@{
+    List<string> columns = new List<string>() { "Id", "Name", "Cost", "Create date" };
+}
+<table>
+    <tr>
+        @foreach (var column in columns)
+        {
+            <th>@column</th>
+        }
+    </tr>
+    @foreach (var item in @Model)
+    {
+        @item.CreateTableRow();
+    }
+</table>
