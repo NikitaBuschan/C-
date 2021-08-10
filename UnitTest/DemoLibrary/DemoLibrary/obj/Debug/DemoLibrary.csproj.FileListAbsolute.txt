@@ -1,0 +1,6 @@
+E:\C-Sharp\UnitTest\DemoLibrary\DemoLibrary\bin\Debug\DemoLibrary.dll
+E:\C-Sharp\UnitTest\DemoLibrary\DemoLibrary\bin\Debug\DemoLibrary.pdb
+E:\C-Sharp\UnitTest\DemoLibrary\DemoLibrary\obj\Debug\DemoLibrary.csprojAssemblyReference.cache
+E:\C-Sharp\UnitTest\DemoLibrary\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+E:\C-Sharp\UnitTest\DemoLibrary\DemoLibrary\obj\Debug\DemoLibrary.dll
+E:\C-Sharp\UnitTest\DemoLibrary\DemoLibrary\obj\Debug\DemoLibrary.pdb

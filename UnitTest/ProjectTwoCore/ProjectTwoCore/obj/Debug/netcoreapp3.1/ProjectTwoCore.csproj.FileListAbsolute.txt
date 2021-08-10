@@ -1,0 +1,8 @@
+E:\C-Sharp\UnitTest\ProjectTwoCore\ProjectTwoCore\bin\Debug\netcoreapp3.1\ProjectTwoCore.deps.json
+E:\C-Sharp\UnitTest\ProjectTwoCore\ProjectTwoCore\bin\Debug\netcoreapp3.1\ProjectTwoCore.dll
+E:\C-Sharp\UnitTest\ProjectTwoCore\ProjectTwoCore\bin\Debug\netcoreapp3.1\ProjectTwoCore.pdb
+E:\C-Sharp\UnitTest\ProjectTwoCore\ProjectTwoCore\obj\Debug\netcoreapp3.1\ProjectTwoCore.AssemblyInfoInputs.cache
+E:\C-Sharp\UnitTest\ProjectTwoCore\ProjectTwoCore\obj\Debug\netcoreapp3.1\ProjectTwoCore.AssemblyInfo.cs
+E:\C-Sharp\UnitTest\ProjectTwoCore\ProjectTwoCore\obj\Debug\netcoreapp3.1\ProjectTwoCore.csproj.CoreCompileInputs.cache
+E:\C-Sharp\UnitTest\ProjectTwoCore\ProjectTwoCore\obj\Debug\netcoreapp3.1\ProjectTwoCore.dll
+E:\C-Sharp\UnitTest\ProjectTwoCore\ProjectTwoCore\obj\Debug\netcoreapp3.1\ProjectTwoCore.pdb

@@ -1,0 +1,9 @@
+E:\C-Sharp\UnitTest\MyCalcLib\MyCalcLib\bin\Debug\netstandard2.0\MyCalcLib.deps.json
+E:\C-Sharp\UnitTest\MyCalcLib\MyCalcLib\bin\Debug\netstandard2.0\MyCalcLib.dll
+E:\C-Sharp\UnitTest\MyCalcLib\MyCalcLib\bin\Debug\netstandard2.0\MyCalcLib.pdb
+E:\C-Sharp\UnitTest\MyCalcLib\MyCalcLib\obj\Debug\netstandard2.0\MyCalcLib.AssemblyInfoInputs.cache
+E:\C-Sharp\UnitTest\MyCalcLib\MyCalcLib\obj\Debug\netstandard2.0\MyCalcLib.AssemblyInfo.cs
+E:\C-Sharp\UnitTest\MyCalcLib\MyCalcLib\obj\Debug\netstandard2.0\MyCalcLib.csproj.CoreCompileInputs.cache
+E:\C-Sharp\UnitTest\MyCalcLib\MyCalcLib\obj\Debug\netstandard2.0\MyCalcLib.dll
+E:\C-Sharp\UnitTest\MyCalcLib\MyCalcLib\obj\Debug\netstandard2.0\MyCalcLib.pdb
+E:\C-Sharp\UnitTest\MyCalcLib\MyCalcLib\obj\Debug\netstandard2.0\MyCalcLib.csprojAssemblyReference.cache

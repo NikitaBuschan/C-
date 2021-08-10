@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GVh7u0bFWMYt0yFRj/XLosi3ZRgVBFi7XI3CF1CBMhH+/DTeuujGvdJrZ5swt2tP8ZUW68AXLlD7qh+JO01gfw==",
+  "success": true,
+  "projectFilePath": "E:\\C-Sharp\\UnitTest\\ProjectOne\\ProjectOne\\ProjectOne.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikit\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

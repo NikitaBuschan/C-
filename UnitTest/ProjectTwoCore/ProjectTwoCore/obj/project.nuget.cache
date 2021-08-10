@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s+tO9xPYTWpvOpW9MpGIvLu5aShQ45O1DgKR9q0UyHGSLWjS3lScoZbCrqup/no3aOXB5hUO35r62Jga9ZOj/w==",
+  "success": true,
+  "projectFilePath": "E:\\C-Sharp\\UnitTest\\ProjectTwoCore\\ProjectTwoCore\\ProjectTwoCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikit\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

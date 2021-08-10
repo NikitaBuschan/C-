@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<UserDetails>
+	<User userid="Nikita" phone="+38 000 123 23 42" email="nikita@mail.com" />
+	<User userid="Nikita1" phone="+38 000 123 23 42" email="nikita1@mail.com" />
+	<User userid="Nikita2" phone="+38 000 123 23 42" email="nikita2@mail.com" />
+	<User userid="Nikita3" phone="+38 000 123 23 42" email="nikita3@mail.com" />
+</UserDetails>

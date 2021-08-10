@@ -1,0 +1,17 @@
+E:\C-Sharp\UnitTest\MyCalcLib\MyCalcLib.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\C-Sharp\UnitTest\MyCalcLib\MyCalcLib.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\C-Sharp\UnitTest\MyCalcLib\MyCalcLib.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\C-Sharp\UnitTest\MyCalcLib\MyCalcLib.Tests\bin\Debug\MyCalcLib.Tests.dll
+E:\C-Sharp\UnitTest\MyCalcLib\MyCalcLib.Tests\bin\Debug\MyCalcLib.Tests.pdb
+E:\C-Sharp\UnitTest\MyCalcLib\MyCalcLib.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\C-Sharp\UnitTest\MyCalcLib\MyCalcLib.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\C-Sharp\UnitTest\MyCalcLib\MyCalcLib.Tests\bin\Debug\MyCalcLib.dll
+E:\C-Sharp\UnitTest\MyCalcLib\MyCalcLib.Tests\bin\Debug\MyCalcLib.pdb
+E:\C-Sharp\UnitTest\MyCalcLib\MyCalcLib.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\C-Sharp\UnitTest\MyCalcLib\MyCalcLib.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\C-Sharp\UnitTest\MyCalcLib\MyCalcLib.Tests\obj\Debug\MyCalcLib.Tests.csprojAssemblyReference.cache
+E:\C-Sharp\UnitTest\MyCalcLib\MyCalcLib.Tests\obj\Debug\MyCalcLib.Tests.csproj.CoreCompileInputs.cache
+E:\C-Sharp\UnitTest\MyCalcLib\MyCalcLib.Tests\obj\Debug\MyCalcLib.Tests.csproj.CopyComplete
+E:\C-Sharp\UnitTest\MyCalcLib\MyCalcLib.Tests\obj\Debug\MyCalcLib.Tests.dll
+E:\C-Sharp\UnitTest\MyCalcLib\MyCalcLib.Tests\obj\Debug\MyCalcLib.Tests.pdb
+E:\C-Sharp\UnitTest\MyCalcLib\MyCalcLib.Tests\bin\Debug\04\TestData.xml

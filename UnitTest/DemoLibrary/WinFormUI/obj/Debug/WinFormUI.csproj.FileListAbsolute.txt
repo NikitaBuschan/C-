@@ -1,0 +1,14 @@
+E:\C-Sharp\UnitTest\DemoLibrary\WinFormUI\bin\Debug\PersonText.txt
+E:\C-Sharp\UnitTest\DemoLibrary\WinFormUI\bin\Debug\WinFormUI.exe.config
+E:\C-Sharp\UnitTest\DemoLibrary\WinFormUI\bin\Debug\WinFormUI.exe
+E:\C-Sharp\UnitTest\DemoLibrary\WinFormUI\bin\Debug\WinFormUI.pdb
+E:\C-Sharp\UnitTest\DemoLibrary\WinFormUI\bin\Debug\DemoLibrary.dll
+E:\C-Sharp\UnitTest\DemoLibrary\WinFormUI\bin\Debug\DemoLibrary.pdb
+E:\C-Sharp\UnitTest\DemoLibrary\WinFormUI\obj\Debug\WinFormUI.csprojAssemblyReference.cache
+E:\C-Sharp\UnitTest\DemoLibrary\WinFormUI\obj\Debug\WinFormUI.Dashboard.resources
+E:\C-Sharp\UnitTest\DemoLibrary\WinFormUI\obj\Debug\WinFormUI.Properties.Resources.resources
+E:\C-Sharp\UnitTest\DemoLibrary\WinFormUI\obj\Debug\WinFormUI.csproj.GenerateResource.cache
+E:\C-Sharp\UnitTest\DemoLibrary\WinFormUI\obj\Debug\WinFormUI.csproj.CoreCompileInputs.cache
+E:\C-Sharp\UnitTest\DemoLibrary\WinFormUI\obj\Debug\WinFormUI.csproj.CopyComplete
+E:\C-Sharp\UnitTest\DemoLibrary\WinFormUI\obj\Debug\WinFormUI.exe
+E:\C-Sharp\UnitTest\DemoLibrary\WinFormUI\obj\Debug\WinFormUI.pdb
